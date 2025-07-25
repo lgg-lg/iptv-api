@@ -5,3 +5,5 @@ http://epg.51zmt.top:8000/e.xml
 https://e.erw.cc/e.xml
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
 https://assets.livednow.com/epg.xml
+https://epg.112114.xyz/pp.xml
+https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
