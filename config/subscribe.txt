@@ -3,26 +3,20 @@
 
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt
-https://github.com/cqshushu/tvjk/blob/main/jd2.txt
+https://raw.githubusercontent.com/cqshushu/tvjk/main/jd.txt
+https://raw.githubusercontent.com/cqshushu/tvjk/main/jd2.txt
 https://m3u.ibert.me/txt/fmml_ipv6.txt
-https://github.com/YueChan/Live/blob/main/APTV.m3u
-https://github.com/YueChan/Live/blob/main/IPTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://m3u.ibert.me/txt/q_bj_iptv_unicom.txt
 https://m3u.ibert.me/txt/q_bj_iptv_mobile.txt
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u
@@ -47,3 +41,4 @@ https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
 https://live.iptv365.org/live.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
