@@ -2,7 +2,7 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 
 http://epg.51zmt.top:8000/e.xml
-https://e.erw.cc/e.xml
+http://e.erw.cc/e.xml
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
 https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
 https://m3u.ibert.me/epg/51zmt_df.xml
