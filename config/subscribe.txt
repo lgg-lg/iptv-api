@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/cqshushu/tvjk/main/jd2.txt
 https://raw.githubusercontent.com/live-streaming-m3u8-checker/main/output/all_tv.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://szyyds.cn/tv/live/x.txt
 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
