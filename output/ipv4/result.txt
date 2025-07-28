@@ -1,10 +1,7 @@
 🕘️更新时间,#genre#
-2025-07-28 06:48:50,http://117.161.12.124/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+2025-07-28 18:57:46,http://114.231.35.191:8181/rtp/239.49.8.130:6000
 
 📺央视频道,#genre#
-CCTV-1,http://117.161.12.124/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV-2,http://117.161.12.124/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV-2,http://39.137.75.230/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
 CCTV-2,http://114.231.35.191:8181/rtp/239.49.8.130:6000
 CCTV-4,http://27.18.225.28:34567/nptv/cctv4k.m3u8
 CCTV-5,http://180.106.52.95:9999/rtp/239.49.1.5:6000
@@ -12,93 +9,53 @@ CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 CCTV-6,http://221.217.53.251:5050/mgtv/624878396.m3u8
 CCTV-7,http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
 CCTV-8,http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
-CCTV-9,http://117.161.12.124/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 CCTV-9,http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
-CCTV-10,http://117.161.12.124/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 CCTV-10,http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
 CCTV-10,http://114.231.35.191:8181/rtp/239.49.8.134:6000
-CCTV-11,http://117.161.12.124/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 CCTV-11,http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
-CCTV-12,http://117.161.12.124/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV-13,http://117.161.12.124/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV-14,http://117.161.12.124/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV-15,http://117.161.12.124/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-16,http://117.161.12.124/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV-16,http://113.245.248.145:60001/udp/239.76.253.230:9000
+CETV-1,https://stream1.freetv.fun/c8ce7c4d9d42e9e6b3fd3caa3ea3a7909ac08fc4a03b6b053a2de9f562b4995a.m3u8
+CETV-2,https://stream1.freetv.fun/fe0bb0b81747167eeeb21d7cfa8a843634ae0bcdbe9e30176d8cece2a2730913.m3u8
+CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a634f7629b1b61550a98.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广东卫视,http://117.161.12.124/live/program/live/gdwshd8m/8000000/mnf.m3u8
 广东卫视,http://39.137.75.230/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=no
-浙江卫视,http://117.161.12.124/live/program/live/zjwshd8m/8000000/mnf.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://113.245.248.145:60001/udp/239.76.246.182:1234
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://113.245.248.145:60001/udp/239.76.246.182:1234
 湖南卫视,http://27.18.225.28:34567/nptv/hunan.m3u8
-湖南卫视,http://117.161.12.124/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-湖北卫视,http://117.161.12.124/live/program/live/hubeiws8m/8000000/mnf.m3u8
 黑龙江卫视,http://27.18.225.28:34567/nptv/heilongjiang.m3u8
-黑龙江卫视,http://117.161.12.124/live/program/live/hljwshd8m/8000000/mnf.m3u8
-黑龙江卫视,http://39.137.75.230/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=no
 安徽卫视,http://27.18.225.28:34567/nptv/anhui.m3u8
-安徽卫视,http://117.161.12.124/live/program/live/ahwshd8m/8000000/mnf.m3u8
 重庆卫视,http://27.18.225.28:34567/nptv/chongqing.m3u8
-重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
 东方卫视,http://27.18.225.28:34567/nptv/dongfang.m3u8
-东方卫视,http://117.161.12.124/live/program/live/dfwshd8m/8000000/mnf.m3u8
-东南卫视,http://117.161.12.124/live/program/live/dnwshd8m/8000000/mnf.m3u8
 甘肃卫视,http://27.18.225.28:34567/nptv/gansu.m3u8
-甘肃卫视,http://117.161.12.124/live/program/live/gswshd8m/8000000/mnf.m3u8
-广西卫视,http://117.161.12.124/live/program/live/gxwshd8m/8000000/mnf.m3u8
 贵州卫视,http://27.18.225.28:34567/nptv/guizhou.m3u8
-海南卫视,http://117.161.12.124/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 海南卫视,http://39.137.75.229/000000001000/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=no
 河北卫视,http://27.18.225.28:34567/nptv/hebei.m3u8
 河南卫视,http://27.18.225.28:34567/nptv/henan.m3u8
-吉林卫视,http://117.161.12.124/live/program/live/jlwshd8m/8000000/mnf.m3u8
-吉林卫视,http://39.137.75.229/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=no
 吉林卫视,http://180.106.52.95:9999/rtp/239.49.1.49:6000
 江苏卫视,http://27.18.225.28:34567/nptv/jiangsu.m3u8
-江苏卫视,http://117.161.12.124/live/program/live/jswshd8m/8000000/mnf.m3u8
-江西卫视,http://39.137.75.229/000000001000/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=no
 江西卫视,http://180.106.52.95:9999/rtp/239.49.1.47:6000
-辽宁卫视,http://117.161.12.124/live/program/live/lnwshd8m/8000000/mnf.m3u8
 内蒙古卫视,http://27.18.225.28:34567/nptv/neimenggu.m3u8
 宁夏卫视,http://27.18.225.28:34567/nptv/ningxia.m3u8
-青海卫视,http://39.137.75.229/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=no
-山东卫视,http://117.161.12.124/live/program/live/sdws8m/8000000/mnf.m3u8
 山东卫视,http://180.106.52.95:9999/rtp/239.49.1.37:6000
-山西卫视,http://27.18.225.28:34567/nptv/shanxi.m3u8
 山西卫视,http://209.141.43.100:55555/nptv/shanxi.m3u8
+山西卫视,http://27.18.225.28:34567/nptv/shanxi.m3u8
 陕西卫视,http://27.18.225.28:34567/nptv/shanxiws.m3u8
 四川卫视,http://27.18.225.28:34567/nptv/sichuan.m3u8
-四川卫视,http://117.161.12.124/live/program/live/scws8m/8000000/mnf.m3u8
-四川卫视,http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
-深圳卫视,http://117.161.12.124/live/program/live/szwshd8m/8000000/mnf.m3u8
 深圳卫视,http://113.245.248.145:60001/udp/239.76.246.188:1234
-三沙卫视,http://117.161.12.124/live/program/live/sswshd8m/8000000/mnf.m3u8
 天津卫视,http://27.18.225.28:34567/nptv/tianjing.m3u8
 西藏卫视,http://159.75.158.122:8007/nptv/xizang.m3u8
-西藏卫视,http://39.137.75.232/000000001000/1000000002000015894/index.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=no
 云南卫视,http://27.18.225.28:34567/nptv/yunnan.m3u8
-云南卫视,http://117.161.12.124/live/program/live/ynwshd8m/8000000/mnf.m3u8
 
 ☘️上海频道,#genre#
-上海教育,http://117.161.12.124/live/program/live/setvhd/8000000/mnf.m3u8
+上海新闻综合,https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 上海新闻综合,http://119.23.222.115:35455/mgtv/651632657.m3u8
 上海纪实,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上海纪实,http://117.161.12.124/live/program/live/jspdhd/4000000/mnf.m3u8
 东方影视,http://116.233.24.27:4022/udp/239.45.3.237:5140
 东方财经,http://124.163.69.36:90/rtp/226.0.2.76:8520
-全纪实,http://117.161.12.124/live/program/live/qjshd8m/8000000/mnf.m3u8
-动漫秀场,http://117.161.12.124/live/program/live/dmxc8m/8000000/mnf.m3u8
-新闻综合,http://117.161.12.124/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-欢笑剧场,http://117.161.12.124/live/program/live/hxjc8m/8000000/mnf.m3u8
-法治天地,http://117.161.12.124/live/program/live/fztd8m/8000000/mnf.m3u8
-生活时尚,http://117.161.12.124/live/program/live/shss8m/8000000/mnf.m3u8
-第一财经,http://117.161.12.124/live/program/live/dycjhd8m/8000000/mnf.m3u8
-都市剧场,http://117.161.12.124/live/program/live/dsjc8m/8000000/mnf.m3u8
 
 🌊港·澳·台,#genre#
 
@@ -110,6 +67,5 @@ CHC高清电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pas
 
 🏀体育频道,#genre#
 五星体育,http://180.159.68.227:4022/udp/239.45.3.210:5140
-五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 
 🎵音乐频道,#genre#
