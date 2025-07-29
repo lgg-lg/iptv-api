@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-07-29 06:53:55,http://114.231.35.191:8181/rtp/239.49.8.130:6000
+2025-07-29 18:55:52,http://114.231.35.191:8181/rtp/239.49.8.130:6000
 
 📺央视频道,#genre#
 CCTV-2,http://114.231.35.191:8181/rtp/239.49.8.130:6000
 CCTV-5,http://180.106.52.95:9999/rtp/239.49.1.5:6000
 CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
-CCTV-6,http://221.217.53.251:5050/mgtv/624878396.m3u8
 CCTV-7,http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
 CCTV-8,http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
 CCTV-9,http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
@@ -21,8 +20,8 @@ CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a6
 
 📡卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://113.245.248.145:60001/udp/239.76.246.182:1234
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://113.245.248.145:60001/udp/239.76.246.182:1234
 吉林卫视,http://180.106.52.95:9999/rtp/239.49.1.49:6000
 山西卫视,http://209.141.43.100:55555/nptv/shanxi.m3u8
 深圳卫视,http://113.245.248.145:60001/udp/239.76.246.188:1234
@@ -32,7 +31,6 @@ CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a6
 上海新闻综合,https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 上海新闻综合,http://119.23.222.115:35455/mgtv/651632657.m3u8
 上海纪实,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-东方影视,http://116.233.24.27:4022/udp/239.45.3.237:5140
 东方财经,http://124.163.69.36:90/rtp/226.0.2.76:8520
 
 🌊港·澳·台,#genre#
