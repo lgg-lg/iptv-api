@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-07-30 06:52:00,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
+2025-07-30 10:39:12,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 CCTV-1,https://epg.pw/stream/9c278a43d5bf7e515412f079507a71cfb8a263ff4938b30757880c9c7cd972b7.m3u8
-CCTV-2,http://114.231.35.191:8181/rtp/239.49.8.130:6000
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-3,https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190d44f0389e0822.m3u8
 CCTV-3,https://epg.pw/stream/ce95ca1c8a1b4dabd5e70ceb7456b3cf03c762ca8f75676c3e75178dd3bbe6fa.m3u8
@@ -31,7 +30,6 @@ CCTV-9,http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
 CCTV-9,https://epg.pw/stream/3c6125aad8eab2287c7cb76da027f3e9673949eec3709dc9f3fd0e3ae9ab4548.m3u8
 CCTV-9,https://epg.pw/stream/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.m3u8
 CCTV-10,http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
-CCTV-10,http://114.231.35.191:8181/rtp/239.49.8.134:6000
 CCTV-10,https://epg.pw/stream/401de7367171f8520986809ac44477892e5b1a44b6b1be3a26f7abd3ee06543f.m3u8
 CCTV-10,https://epg.pw/stream/65a98eb1bc5fc38505f2c025c2f0c88f31429e43104486845616deb65bf9c895.m3u8
 CCTV-10,https://epg.pw/stream/fc095c2e45f516623d6bf521076f6599f916db498d61c38dca8d9a7c7a626f62.m3u8
@@ -71,8 +69,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 📡卫视频道,#genre#
 广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://113.245.248.145:60001/udp/239.76.246.182:1234
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
@@ -123,7 +121,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 上海纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8?IASHttpSessionId=
 上海纪实,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000068
 上海纪实,http://php.jdshipin.com:8880/bst.php?id=jsrw
-上海纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 上海都市,http://lu.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 上海都市,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=007
 上海都市,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8
@@ -188,18 +185,15 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 CHC高清电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://ddns.372101.best:9981/stream/channelid/735747952?profile=pass
 经典电影,http://211.92.69.184:8888/udp/225.0.4.48:7980
