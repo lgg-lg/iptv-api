@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-07-30 10:43:16,http://180.106.52.95:9999/rtp/239.49.1.5:6000
+2025-07-30 12:23:11,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 
 📺央视频道,#genre#
-CCTV-5,http://180.106.52.95:9999/rtp/239.49.1.5:6000
 CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 CCTV-7,http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
 CCTV-8,http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
@@ -17,9 +16,7 @@ CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a6
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://113.245.248.145:60001/udp/239.76.246.182:1234
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 山西卫视,http://209.141.43.100:55555/nptv/shanxi.m3u8
 深圳卫视,http://113.245.248.145:60001/udp/239.76.246.188:1234
 西藏卫视,http://159.75.158.122:8007/nptv/xizang.m3u8

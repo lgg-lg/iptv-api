@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-30 10:43:16,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
+2025-07-30 12:23:11,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
@@ -11,7 +11,6 @@ CCTV-3,https://epg.pw/stream/f6401d4bed8cdb1050ddd7f4d8d0d85ffef76d785c9bfe02239
 CCTV-4,https://epg.pw/stream/4a3bc1c3647278aa55a85d191425ed035c72d091144e9c639b6938745c6224f3.m3u8
 CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
 CCTV-4,https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
-CCTV-5,http://180.106.52.95:9999/rtp/239.49.1.5:6000
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 CCTV-5+,https://yunmei.tv/main/cctv-5p.m3u8
@@ -68,9 +67,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 📡卫视频道,#genre#
 广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://113.245.248.145:60001/udp/239.76.246.182:1234
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
