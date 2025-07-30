@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-30 10:39:12,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
+2025-07-30 10:43:16,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
@@ -87,7 +87,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1744783218&k=55baa24b79cf33308348503c4c22111a
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,http://tvh.990066.xyz/stream/channelid/1124170961?profile=pass
-吉林卫视,http://180.106.52.95:9999/rtp/239.49.1.49:6000
 江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-600/index.m3u8?&encrypt=
