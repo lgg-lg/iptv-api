@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-31 18:56:02,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
+2025-08-01 06:50:13,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 
 📺央视频道,#genre#
 CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
@@ -23,7 +23,6 @@ CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a6
 ☘️上海频道,#genre#
 上海新闻综合,https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 上海纪实,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-东方财经,http://124.163.69.36:90/rtp/226.0.2.76:8520
 
 🌊港·澳·台,#genre#
 
