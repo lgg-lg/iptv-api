@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-01 18:56:01,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
+2025-08-02 06:49:20,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 
 📺央视频道,#genre#
 CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
@@ -8,7 +8,6 @@ CCTV-8,http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
 CCTV-9,http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
 CCTV-10,http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
 CCTV-11,http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
-CCTV-16,http://113.245.248.145:60001/udp/239.76.253.230:9000
 CETV-1,https://stream1.freetv.fun/c8ce7c4d9d42e9e6b3fd3caa3ea3a7909ac08fc4a03b6b053a2de9f562b4995a.m3u8
 CETV-2,https://stream1.freetv.fun/fe0bb0b81747167eeeb21d7cfa8a843634ae0bcdbe9e30176d8cece2a2730913.m3u8
 CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a634f7629b1b61550a98.m3u8
@@ -17,7 +16,6 @@ CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a6
 
 📡卫视频道,#genre#
 山西卫视,http://209.141.43.100:55555/nptv/shanxi.m3u8
-深圳卫视,http://113.245.248.145:60001/udp/239.76.246.188:1234
 西藏卫视,http://159.75.158.122:8007/nptv/xizang.m3u8
 
 ☘️上海频道,#genre#
