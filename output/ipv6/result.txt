@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-02 06:49:20,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
+2025-08-02 18:53:07,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
@@ -9,7 +9,6 @@ CCTV-3,https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190
 CCTV-3,https://epg.pw/stream/ce95ca1c8a1b4dabd5e70ceb7456b3cf03c762ca8f75676c3e75178dd3bbe6fa.m3u8
 CCTV-3,https://epg.pw/stream/f6401d4bed8cdb1050ddd7f4d8d0d85ffef76d785c9bfe0223987f5ff798e31b.m3u8
 CCTV-4,https://epg.pw/stream/4a3bc1c3647278aa55a85d191425ed035c72d091144e9c639b6938745c6224f3.m3u8
-CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
 CCTV-4,https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5+,https://yunmei.tv/main/cctv-5p.m3u8
@@ -64,14 +63,12 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
 湖北卫视,https://k44991.kylintv.tv/live/hubeitv_iphone.m3u8
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 安徽卫视,http://nas.xianbao.info:35455/nptv/anhui.m3u8
 重庆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796458.m3u8
 东方卫视,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
-广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 贵州卫视,https://k44991.kylintv.tv/live/guizhoutv_iphone.m3u8
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1744783218&k=55baa24b79cf33308348503c4c22111a
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
