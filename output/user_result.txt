@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-04 19:00:03,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
+2025-08-05 06:51:36,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
@@ -83,7 +83,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-600/index.m3u8?&encrypt=
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-山西卫视,http://209.141.43.100:55555/nptv/shanxi.m3u8
 四川卫视,https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND

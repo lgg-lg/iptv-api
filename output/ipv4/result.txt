@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-04 19:00:03,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
+2025-08-05 06:51:36,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 
 📺央视频道,#genre#
 CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
@@ -15,7 +15,6 @@ CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a6
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-山西卫视,http://209.141.43.100:55555/nptv/shanxi.m3u8
 
 ☘️上海频道,#genre#
 上海新闻综合,https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
