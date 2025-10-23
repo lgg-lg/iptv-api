@@ -223,10 +223,82 @@ def get_total_urls(info_list: list[ChannelData], ipv_type_prefer, origin_type_pr
                 ipv_num[ipv_type] += len(limit_urls)
             else:
                 continue
-
+                
+    total_urls = dedup_and_filter_contained_urls(total_urls) 
     total_urls = total_urls[:urls_limit]
-
+    
     return total_urls
+
+def dedup_and_filter_contained_urls(total_urls: list) -> list:
+    """
+    1. 按 url 去重（保留首次出现）
+    2. 移除那些被其他 url 完全包含的较短 url（如保留 'baidu.com/123.html'，删除 'baidu.com'）
+    """
+    if not total_urls:
+        return []
+
+    # Step 1: 去重，保留第一次出现的
+    seen_urls = set()
+    unique_list = []
+    for item in total_urls:
+        url = item["url"]
+        if url not in seen_urls:
+            seen_urls.add(url)
+            unique_list.append(item)
+
+    # Step 2: 按 url 长度降序排序（长的在前），便于判断是否包含短的
+    # 注意：不能直接用 len(url)，因为有些短 URL 可能不是子串（如 "a.com" vs "b.com/a"）
+    # 但我们仍按长度排，提高效率
+    sorted_items = sorted(unique_list, key=lambda x: len(x["url"]), reverse=True)
+
+    result = []
+    for item in sorted_items:
+        current_url = item["url"]
+        # 检查 current_url 是否被 result 中已有的任何 url 包含
+        # 注意：result 中的 url 都 >= current_url 的长度（因排序）
+        # 所以只需检查：current_url 是否是某个已有 url 的子串？
+        # 但我们要保留“更具体”的，即如果 current_url 是别人的子串，就跳过（不保留）
+        # 反过来：如果已有 url 是 current_url 的子串，那已有 url 应该被剔除？但已有 url 更长，不可能是子串
+        # 所以只需检查：current_url 是否被 result 中的某个 url 包含？
+        if any(current_url in existing["url"] for existing in result):
+            # current_url 被某个更长的 url 包含，跳过（不保留短的）
+            continue
+        else:
+            result.append(item)
+
+    # 恢复原始顺序（可选）：如果你希望保持去重后的原始顺序，可以加索引
+    # 但通常这类过滤不需要严格顺序，若需要见下方“保持顺序”版本
+
+    return result
+
+def dedup_and_filter_contained_urls_keep_order(total_urls: list) -> list:
+    # Step 1: 去重并记录原始索引
+    seen = set()
+    unique_with_index = []
+    for i, item in enumerate(total_urls):
+        url = item["url"]
+        if url not in seen:
+            seen.add(url)
+            unique_with_index.append((i, item))
+
+    # 提取去重后的列表（保持顺序）
+    unique_items = [item for _, item in unique_with_index]
+    urls = [item["url"] for item in unique_items]
+
+    # Step 2: 找出哪些 url 被其他 url 包含
+    to_remove = set()
+    n = len(urls)
+    for i in range(n):
+        for j in range(n):
+            if i != j and urls[i] in urls[j]:
+                # urls[i] 被 urls[j] 包含 → 标记 i 为删除
+                to_remove.add(i)
+                break  # 一旦被包含，无需再检查
+
+    # 保留未被包含的项（按原始顺序）
+    result = [unique_items[i] for i in range(n) if i not in to_remove]
+    return result
+
 
 
 def get_total_urls_from_sorted_data(data):
