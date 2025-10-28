@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-28 08:06:45,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2025-10-29 07:54:27,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1157,14 +1157,27 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 都市剧场,http://www.yeqi.eu.org:4000/rtp/233.50.201.190:5140
 都市剧场,http://www.yeqi.eu.org:4000/rtp/233.50.200.11:5140
+苏州文化生活,https://stream1.freetv.fun/f179e9f93db16c64366d57961aeb681d84b6bd1e6aeee93692ebcc05e8e3b916.m3u8
+苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 
 🎬电影频道,#genre#
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
 CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 黑莓电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
+经典电影,http://live.iill.top/huya.php?id=11352962
 
 🏀体育频道,#genre#
+JJ斗地主,https://live.iill.top/bilibili/22021983
+JJ斗地主,https://live.iill.top/douyu/488743
+JJ麻将,https://live.iill.top/bilibili/24564931
+JJ麻将冠军杯,https://live.iill.top/douyu/10684745
+雀魂麻将,https://live.iill.top/bilibili/14709539
+雀魂麻将,https://live.iill.top/douyu/6601425
+麻将研究院,https://live.iill.top/bilibili/30377127
+深圳麻将,https://live.iill.top/bilibili/21181660
+日本麻将,https://live.iill.top/bilibili/30841267
 CCTV-5,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008885/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
 CCTV-5,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016619/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=3
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai

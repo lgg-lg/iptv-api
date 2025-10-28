@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lgg-lg/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-28 08:06:45
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-29 07:54:27
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -2299,6 +2299,12 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 http://www.yeqi.eu.org:4000/rtp/233.50.201.190:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
 http://www.yeqi.eu.org:4000/rtp/233.50.200.11:5140
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="☘️上海频道",苏州文化生活
+https://stream1.freetv.fun/f179e9f93db16c64366d57961aeb681d84b6bd1e6aeee93692ebcc05e8e3b916.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="☘️上海频道",苏州文化生活
+https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="☘️上海频道",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://k.061899.xyz/m.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
@@ -2307,6 +2313,26 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://k.061899.xyz/m.php?id=dzdy
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
+http://live.iill.top/huya.php?id=11352962
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
+https://live.iill.top/bilibili/22021983
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
+https://live.iill.top/douyu/488743
+#EXTINF:-1 tvg-name="JJ麻将" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ麻将.png" group-title="🏀体育频道",JJ麻将
+https://live.iill.top/bilibili/24564931
+#EXTINF:-1 tvg-name="JJ麻将冠军杯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ麻将冠军杯.png" group-title="🏀体育频道",JJ麻将冠军杯
+https://live.iill.top/douyu/10684745
+#EXTINF:-1 tvg-name="雀魂麻将" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雀魂麻将.png" group-title="🏀体育频道",雀魂麻将
+https://live.iill.top/bilibili/14709539
+#EXTINF:-1 tvg-name="雀魂麻将" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雀魂麻将.png" group-title="🏀体育频道",雀魂麻将
+https://live.iill.top/douyu/6601425
+#EXTINF:-1 tvg-name="麻将研究院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/麻将研究院.png" group-title="🏀体育频道",麻将研究院
+https://live.iill.top/bilibili/30377127
+#EXTINF:-1 tvg-name="深圳麻将" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳麻将.png" group-title="🏀体育频道",深圳麻将
+https://live.iill.top/bilibili/21181660
+#EXTINF:-1 tvg-name="日本麻将" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本麻将.png" group-title="🏀体育频道",日本麻将
+https://live.iill.top/bilibili/30841267
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008885/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
