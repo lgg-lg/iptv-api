@@ -28,7 +28,7 @@ http://liveshowbak2.kan0512.com
 # 错误
 http://shcxzx.shscxzx.cn:8899/
 https://4k.11cn.dpdns.org
-https://cc06.tv12.xyz
+cc06.tv12.xyz
 http://rathan.tech:2018/
 http://iptvcyp.top:9901
 http://hknew.1205123.xyz:35455
@@ -58,6 +58,7 @@ httpdvb.slave.homed.hrtn.net
 hms2924nc1972666636.live.aikan.miguvideo.com
 gm.dszb.cc
 live.setv.sh.cn
+api2.52tb.xyz
 # 收费
 www.freetv.top/migu/608807420.m3u8
 free.cnlive.club/channel/47cdbb52
