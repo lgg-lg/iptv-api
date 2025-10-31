@@ -9,4 +9,5 @@ https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/collections/collect
 https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/collections/collection4.txt
 https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/collections/JJqp.txt
 https://raw.githubusercontent.com/lgg-lg/IPTV/main/live.txt
+https://raw.githubusercontent.com/lgg-lg/IPTV/main/other.txt
 http://106.53.99.30/2025.txt
