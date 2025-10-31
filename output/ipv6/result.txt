@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 07:46:48,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2025-11-01 07:39:20,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1176,6 +1176,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 上海新闻综合,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=
 上海新闻综合,http://k.061899.xyz/m.php?id=shxw&key=txiptv&playlive=1&authid=0
 上海新闻综合,http://ydn.wzy80119.top:5080/migu720p.php?id=651632657
+上海新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 上海新闻综合,https://live.chinacert.cftest5.cn/mg/?id=651632657
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
@@ -1226,9 +1227,15 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 经典电影,http://live.iill.top/huya.php?id=11352962
 
 📍其他地方,#genre#
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州文化生活,https://stream1.freetv.fun/f179e9f93db16c64366d57961aeb681d84b6bd1e6aeee93692ebcc05e8e3b916.m3u8
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州文化生活,http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 湖南娱乐,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8
 湖南都市,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
 湖南爱晚,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
@@ -1355,7 +1362,6 @@ JJ麻将冠军杯,https://live.iill.top/douyu/10684745
 
 📺轮播影视,#genre#
 甄嬛传,http://live.iill.top/huya.php?id=11601971
-鹊刀门传奇,https://live.iill.top/huya/11352963
 情满四合院,http://tv123.top:35455/huya/11342426
 情满四合院,https://live.iill.top/huya/11342426
 康熙王朝,http://live.iill.top/huya.php?id=11352940
