@@ -12,3 +12,4 @@ live.iill.top/huya
 live-auth.51kandianshi.com
 https://stream1.freetv.fun/f179e9f93db16c64366d57961aeb681d84b6bd1e6aeee93692ebcc05e8e3b916.m3u8
 https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8
