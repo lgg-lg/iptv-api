@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-03 07:33:41,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2025-11-04 07:39:02,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -172,6 +172,7 @@ CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
 CCTV-5+,http://yc.myds.me:35455/gaoma/cctv5p.m3u8
 CCTV-6,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008886/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
 CCTV-6,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018433/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=3
+CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=m3u8
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227325/index.m3u8
@@ -510,6 +511,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 世界地理,http://a.markc.top:8887/rtp/239.49.8.87:8000?
 世界地理,http://cyong.top:4022/rtp/239.69.1.91:10186
 兵器科技,http://cyong.top:4022/rtp/239.69.1.79:10114
+相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
 
 📡卫视频道,#genre#
 广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?&HlsSubType=&encrypt=
@@ -707,6 +709,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 安徽卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.113:5140
 安徽卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.71:5140
 安徽卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.62:5140
+安徽卫视,http://a.708d.com:10010/udp/239.45.1.120:5140
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
 重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1232,6 +1235,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 动漫秀场,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555886@BESTV.SMG.SMG
 动漫秀场,http://www.yeqi.eu.org:4000/rtp/233.50.201.184:5140
 动漫秀场,http://www.yeqi.eu.org:4000/rtp/233.50.200.12:5140
+动漫秀场,http://a.708d.com:10010/udp/239.45.3.134:5140
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226703/1.m3u8
@@ -1239,6 +1243,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 哈哈炫动,http://www.yeqi.eu.org:4000/rtp/233.50.201.74:5140
 哈哈炫动,http://oec.wzy80119.top:5080/kknews.php?id=hhxd
 哈哈炫动,http://ydn.wzy80119.top:5080/kknews.php?id=hhxd
+哈哈炫动,http://a.708d.com:10010/udp/239.45.1.55:5140
 法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
 法治天地,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1373@BESTV.SMG.SMG
 法治天地,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1373@BESTV.SMG.SMG
@@ -1261,6 +1266,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 都市剧场,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555881@BESTV.SMG.SMG
 都市剧场,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555881@BESTV.SMG.SMG
 都市剧场,http://www.kktoo21.com:4022/rtp/239.45.3.136:5140
+都市剧场,http://a.708d.com:10010/udp/239.45.3.136:5140
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
 哈尔滨影视,https://www.hrbtv.net/folder79/folder87/
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
@@ -1270,6 +1276,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 
 🎬电影频道,#genre#
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
+CHC动作电影,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongzuody/1.m3u8
 CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 湖南电影,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-film.m3u8
@@ -1372,6 +1379,7 @@ CCTV-5+,http://yc.myds.me:35455/gaoma/cctv5p.m3u8
 广东体育,http://rustdesk.szsun.xyz:8088/udp/239.77.0.112:5146
 广东体育,https://www.gdtv.cn/tvChannelDetail/47
 广东体育,http://k.061899.xyz/m.php?id=gdty
+五星体育,http://a.708d.com:10010/udp/239.45.3.210:5140
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
 劲爆体育,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=shjs
