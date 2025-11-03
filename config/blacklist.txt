@@ -25,6 +25,7 @@ stream.iptv-search.com/main.php
 migu.188766.xyz/?
 3501776.xyz:35455/bptv
 http://liveshowbak2.kan0512.com
+110.42.37.69:6688/live/live.php
 # 错误
 http://shcxzx.shscxzx.cn:8899/
 https://4k.11cn.dpdns.org
