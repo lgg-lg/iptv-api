@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-14 07:29:21,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2025-11-15 07:23:13,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -604,6 +604,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 浙江卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.145:5140
 浙江卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.231:5140
 浙江卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.100:5140
+湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
@@ -633,7 +634,6 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 湖南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.52:5140
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1027_1.m3u8
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/?id=hunan
-湖南卫视,http://word.mtoo.vip:8333/udp/239.77.1.5:5146
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1340,10 +1340,12 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 
 🎬电影频道,#genre#
 CHC家庭影院,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.60:5540
+CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
 CHC动作电影,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongzuody/1.m3u8
 CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC动作电影,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.61:5540
+CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182320/main.m3u8?stbid=
 湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197673/main.m3u8?stbid=
