@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-27 07:10:56,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2025-11-28 07:16:37,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -980,6 +980,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 河南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.44:5140
 河南卫视,https://live.chinacert.cftest5.cn/mg/?id=790187291
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+河南卫视,http://iptv.huuc.edu.cn/hls/hnhd.m3u8
 吉林卫视,http://gfr.x3322.net:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227240/index.m3u8
