@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 07:08:34,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2025-12-10 07:22:07,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -813,12 +813,12 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 东方卫视,http://yc.myds.me:35455/itv/5000000004000014098.m3u8?cdn=bestzb
 东方卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
 东方卫视,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.125:5540
+东方卫视,http://bp-livety4kbz.bestv.cn/live/dfws4k_4k265p.m3u8
 东方卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=dfwshd
 东方卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.218:5146
 东方卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.146:5140
 东方卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.125:5140
 东方卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.64:5140
-东方卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.68:5140
 东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227195/index.m3u8
@@ -1325,9 +1325,11 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 上海新闻综合,http://ydn.wzy80119.top:5080/migu720p.php?id=651632657
 上海新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 上海新闻综合,https://live.chinacert.cftest5.cn/mg/?id=651632657
+上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
 上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 东方财经,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
@@ -1335,6 +1337,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555886@BESTV.SMG.SMG
 动漫秀场,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555886@BESTV.SMG.SMG
+动漫秀场,http://nas.home.plugintool.top:2333/udp/239.76.254.70:9000
 动漫秀场,http://www.yeqi.eu.org:4000/rtp/233.50.201.184:5140
 动漫秀场,http://www.yeqi.eu.org:4000/rtp/233.50.200.12:5140
 动漫秀场,http://a.708d.com:10010/udp/239.45.3.134:5140
@@ -1359,6 +1362,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 生活时尚,http://a.708d.com:10010/udp/239.45.3.132:5140
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.125:5140
+第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
@@ -1512,6 +1516,7 @@ CCTV-5+,http://yc.myds.me:35455/gaoma/cctv5p.m3u8
 广东体育,https://www.gdtv.cn/tvChannelDetail/47
 广东体育,http://k.061899.xyz/m.php?id=gdty
 五星体育,http://a.708d.com:10010/udp/239.45.3.210:5140
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
 劲爆体育,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=shjs
