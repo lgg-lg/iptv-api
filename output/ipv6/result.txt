@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-16 07:17:02,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2025-12-17 07:07:55,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -552,6 +552,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 第一剧场,http://cyong.top:4022/rtp/239.69.1.74:10084
 高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
 高尔夫网球,http://cyong.top:4022/rtp/239.69.1.83:10138
+风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
 风云足球,http://tv.laokhome.cn:19000/rtp/232.0.0.52:1234
 风云足球,http://cyong.top:4022/rtp/239.69.1.81:10126
 世界地理,http://huijie5421.cn:8800/rtp/239.49.8.87:8000?
