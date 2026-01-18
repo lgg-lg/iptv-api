@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-18 06:41:53,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-01-19 06:41:48,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -594,6 +594,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8?stbid=
 兵器科技,http://cyong.top:4022/rtp/239.69.1.79:10114
 老故事,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8?stbid=
+老故事,https://itv.809899.xyz/migu.php?id=lgs
 赵本山小品,https://live.iill.top/douyu/9817716
 
 📡卫视频道,#genre#
@@ -1566,6 +1567,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.125:5140
 第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+第一财经,https://itv.809899.xyz/migu.php?id=dycj
 
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
