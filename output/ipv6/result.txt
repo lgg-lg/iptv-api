@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-23 06:37:35,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-01-24 06:45:30,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1009,6 +1009,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 海南卫视,http://tv.laokhome.cn:19000/rtp/232.0.0.26:1234
 海南卫视,http://kictoc.top:7000/rtp/239.254.201.125:6288
 海南卫视,http://b.708d.com:10010/udp/239.45.1.81:5140
+海南卫视,http://k.061899.xyz/m.php?id=hinws
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1746316818&k=7e9b50f9b9b642ffd4ce1363bb6847ab
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1746100821&k=858d65a9c3668524cd7cb3e724c8db10
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745946022&k=805cef8ba2d09cd6f897d9687a70c39b
@@ -1614,6 +1615,7 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 📍其他地方,#genre#
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州文化生活,http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -1780,7 +1782,5 @@ JJ麻将冠军杯,https://live.iill.top/douyu/10684745
 
 📺轮播影视,#genre#
 情满四合院,http://tv123.top:35455/huya/11342426
-新水浒传,https://live.iill.top/huya/11342384
 武林外传,https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
 武林外传,http://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
-爱情公寓,https://live.iill.top/huya/11336726
