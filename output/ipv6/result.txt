@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-01 06:40:49,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-02-02 06:42:31,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1679,8 +1679,14 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 金鹰纪实,http://vencentnas.com:7088/rtp/239.3.1.58:8156
 浙江生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
 浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江生活,https://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+浙江生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+浙江生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+浙江民生休闲,https://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
 安徽经济生活,https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
 北京生活,http://vencentnas.com:7088/rtp/239.3.1.231:8000
 北京生活,https://www.btime.com/btv/btvsy_index?tag=6
