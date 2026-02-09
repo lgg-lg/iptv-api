@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-09 06:37:10,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-02-10 06:45:51,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1473,6 +1473,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=e7d7b684fa251197ffc110ffa0585095&time=6970199d
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=b54c6871a2e2f146364398f735f5aa6c&time=69767810
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=11b0353cf72c03fae983f62f856d22af&time=697bbed0
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4f46599e865ebd0d685b12e03bf3ca1f&time=698a3f33
 西藏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226392/index.m3u8?fmt=ts2hls
 西藏卫视,http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236274/index.m3u8
@@ -1490,7 +1491,6 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 西藏卫视,http://tv.laokhome.cn:19000/rtp/232.0.0.114:1234
 西藏卫视,http://www.lfkj88.top:8188/rtp/239.11.0.53:5140
 西藏卫视,http://kictoc.top:7000/rtp/239.254.200.88:8164
-西藏卫视,http://b.708d.com:10010/udp/239.45.1.231:5140
 新疆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
 新疆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8?stbid=
 新疆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226418/index.m3u8?fmt=ts2hls
