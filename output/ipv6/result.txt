@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-11 06:48:48,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-02-12 06:40:06,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1569,6 +1569,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 动漫秀场,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555886@BESTV.SMG.SMG
 动漫秀场,http://nas.home.plugintool.top:2333/udp/239.76.254.70:9000
 动漫秀场,http://www.yeqi.eu.org:4000/rtp/233.50.201.184:5140
+动漫秀场,http://www.qfly9236.cn:8888/rtp/239.253.93.225:6403
 动漫秀场,http://www.yeqi.eu.org:4000/rtp/233.50.200.12:5140
 动漫秀场,http://tv.laokhome.cn:19000/rtp/232.0.0.128:1234
 动漫秀场,http://a.708d.com:10010/udp/239.45.3.134:5140
