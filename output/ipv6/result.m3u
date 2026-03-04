@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lgg-lg/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-04 06:47:52
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-05 06:51:52
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1139,6 +1139,8 @@ http://www.yeqi.eu.org:4000/rtp/233.50.200.169:5140
 http://www.yeqi.eu.org:4000/rtp/233.50.201.75:5140
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://live.chinacert.cftest5.cn/mg/?id=923287154
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
+https://mgcn.chinacert.cftest5.cn/923287154
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
 http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260216080232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260216080232&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=50a22a777e30d024e257e3f605fb713f&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
@@ -1175,6 +1177,8 @@ http://ott.mobaibox.com/PLTV/-/224/3221225850/index.m3u8
 http://quan2018.mycloudnas.com:9000/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
 https://live.chinacert.cftest5.cn/mg/?id=923287211
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
+https://mgcn.chinacert.cftest5.cn/923287211
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
 http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260216040228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260216040228&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f56ceb6b0e085bbb5e657c634b108ca0&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
@@ -1231,6 +1235,8 @@ http://www.yeqi.eu.org:4000/rtp/233.50.200.162:5140
 http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
 https://live.chinacert.cftest5.cn/mg/?id=923287339
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
+https://mgcn.chinacert.cftest5.cn/923287339
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="💰央视付费频道",文化精品
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="💰央视付费频道",文化精品
@@ -3357,6 +3363,8 @@ https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 https://live.chinacert.cftest5.cn/mg/?id=651632657
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
 http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
+https://mgcn.chinacert.cftest5.cn/651632657
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海纪实.png" group-title="☘️上海频道",上海纪实
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海纪实.png" group-title="☘️上海频道",上海纪实
@@ -3510,6 +3518,8 @@ http://www.yeqi.eu.org:4000/rtp/233.50.200.125:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
 http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
+https://mgcn.chinacert.cftest5.cn/608780988
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
 https://itv.809899.xyz/migu.php?id=dycj
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="📺电视剧频道",东方影视
 http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
@@ -3568,6 +3578,8 @@ http://pitajvsa.asuscomm.com:51728/udp/238.200.200.60:5540
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://live.chinacert.cftest5.cn/mg/?id=644368373
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+https://mgcn.chinacert.cftest5.cn/644368373
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://k.061899.xyz/m.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448842&livemode=1&stbId=4
@@ -3593,6 +3605,8 @@ http://pitajvsa.asuscomm.com:51728/udp/238.200.200.61:5540
 https://live.chinacert.cftest5.cn/mg/?id=644368714
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://live.chinacert.cftest5.cn/huya/11602077
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+https://mgcn.chinacert.cftest5.cn/644368714
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://k.061899.xyz/m.php?id=dzdy
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="🎬电影频道",湖南电影

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-04 06:47:52,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-03-05 06:51:52,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -571,6 +571,7 @@ CETV-1,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy1hd
 CETV-1,http://www.yeqi.eu.org:4000/rtp/233.50.200.169:5140
 CETV-1,http://www.yeqi.eu.org:4000/rtp/233.50.201.75:5140
 CETV-1,https://live.chinacert.cftest5.cn/mg/?id=923287154
+CETV-1,https://mgcn.chinacert.cftest5.cn/923287154
 CETV-2,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260216080232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260216080232&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=50a22a777e30d024e257e3f605fb713f&sv=10004&ct=android
 CETV-2,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260226040226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260226040226&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eede2b30f64960a254e0e30314bb0668&sv=10004&ct=android
 CETV-2,http://mgsp-tx2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260225160214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260225160214&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6a14c02df8cb6d44558be028022b92b2&sv=10004&ct=android
@@ -589,6 +590,7 @@ CETV-2,http://ott.mobaibox.com/PLTV/-/224/3221227607/index.m3u8
 CETV-2,http://ott.mobaibox.com/PLTV/-/224/3221225850/index.m3u8
 CETV-2,http://quan2018.mycloudnas.com:9000/rtp/239.3.1.54:4120
 CETV-2,https://live.chinacert.cftest5.cn/mg/?id=923287211
+CETV-2,https://mgcn.chinacert.cftest5.cn/923287211
 CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260216040228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260216040228&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f56ceb6b0e085bbb5e657c634b108ca0&sv=10004&ct=android
 CETV-4,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260215160215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260215160215&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=291b691ef984068aeb1fa6c61a9b46ea&sv=10004&ct=android
 CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260216080233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260216080233&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4380d1b7c3d1203a6efa8d16c02df669&sv=10004&ct=android
@@ -617,6 +619,7 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.200.162:5140
 CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
+CETV-4,https://mgcn.chinacert.cftest5.cn/923287339
 
 💰央视付费频道,#genre#
 文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1686,6 +1689,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 上海新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 上海新闻综合,https://live.chinacert.cftest5.cn/mg/?id=651632657
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+上海新闻综合,https://mgcn.chinacert.cftest5.cn/651632657
 上海纪实,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海都市,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
@@ -1762,6 +1766,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.125:5140
 第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+第一财经,https://mgcn.chinacert.cftest5.cn/608780988
 第一财经,https://itv.809899.xyz/migu.php?id=dycj
 
 📺电视剧频道,#genre#
@@ -1795,6 +1800,7 @@ CHC家庭影院,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 CHC家庭影院,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.60:5540
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
+CHC家庭影院,https://mgcn.chinacert.cftest5.cn/644368373
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
 CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448842&livemode=1&stbId=4
 CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
@@ -1808,6 +1814,7 @@ CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.
 CHC动作电影,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.61:5540
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC动作电影,http://live.chinacert.cftest5.cn/huya/11602077
+CHC动作电影,https://mgcn.chinacert.cftest5.cn/644368714
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182320/main.m3u8?stbid=
 湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197673/main.m3u8?stbid=
