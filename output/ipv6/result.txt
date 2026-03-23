@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-23 06:43:40,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-03-24 06:51:50,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1669,6 +1669,7 @@ CETV-4,https://mgcn.chinacert.cftest5.cn/923287339
 农林卫视,http://ott.mobaibox.com/PLTV/-/224/3221227648/index.m3u8
 农林卫视,http://ott.mobaibox.com/PLTV/-/224/3221227015/index.m3u8
 农林卫视,https://live.chinacert.cftest5.cn/mg/?id=956904896
+农林卫视,https://mgcn.chinacert.cftest5.cn/956904896
 
 ☘️上海频道,#genre#
 上海教育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
