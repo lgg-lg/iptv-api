@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lgg-lg/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-08 06:58:50
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-09 06:58:54
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1332,9 +1332,13 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="💰央视付费频道",兵器科技
 http://cyong.top:4022/rtp/239.69.1.79:10114
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="💰央视付费频道",老故事
+https://www.freetv.top/migu/884121956.m3u8?migutoken=550b8ac2d06ef43bd80e29582185fe693959996048d7b572ce1659fe9376b6101cf9002c0034445668d6e11645eab13a11978ca20adae4f4248041add5d27f4d8e71fd2a4e44fd398c8fb3614b
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="💰央视付费频道",老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8?stbid=
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="💰央视付费频道",老故事
 https://itv.809899.xyz/migu.php?id=lgs
+#EXTINF:-1 tvg-name="赵本山小品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赵本山小品.png" group-title="💰央视付费频道",赵本山小品
+https://live.ottiptv.cc/douyu/9817716
 #EXTINF:-1 tvg-name="赵本山小品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赵本山小品.png" group-title="💰央视付费频道",赵本山小品
 https://live.iill.top/douyu/9817716
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -3518,6 +3522,8 @@ http://mgsp-tx2.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?ms
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
 http://mgsp-zy2.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20260228160236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=218.28.233.106&SecurityKey=20260228160236&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=27e56cb9bb8b69962e6dd37cd01e90dd&sv=10004&ct=android
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
+https://www.freetv.top/migu/608780988.m3u8?migutoken=94882e783c75b9369ca6a018f97fe3a3c0018f9da123958e316bb810ef22e907f0672a7d63496e5cb5041eb125b1f1ee6996ac856b0c0c9828348878b8a4101384b9a851fb1dea60a7fafeea35
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
@@ -3531,6 +3537,8 @@ http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 https://mgcn.chinacert.cftest5.cn/608780988
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
 https://itv.809899.xyz/migu.php?id=dycj
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="📺电视剧频道",东方影视
+https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="📺电视剧频道",东方影视
 http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="📺电视剧频道",东方影视
@@ -3574,6 +3582,10 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="📺电视剧频道",湖南电视剧
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448840&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?stbid=
@@ -3591,6 +3603,8 @@ https://live.chinacert.cftest5.cn/mg/?id=644368373
 https://mgcn.chinacert.cftest5.cn/644368373
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://k.061899.xyz/m.php?id=jtyy
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448842&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
@@ -3914,6 +3928,8 @@ https://other.chinacert.cftest5.cn/wxty.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://k.061899.xyz/m.php?id=wxty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
+https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
 https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=shjs
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
 http://k.061899.xyz/m.php?id=jbty
@@ -3959,6 +3975,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/01.m3u8
 http://missyao.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
 http://missyao.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
+https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🀄棋牌频道",JJ斗地主
 http://live.iill.top/bilibili.php?id=22021983
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🀄棋牌频道",JJ斗地主
@@ -3995,15 +4013,77 @@ https://live.iill.top/bilibili/21181660
 http://live.iill.top/bilibili.php?id=30841267
 #EXTINF:-1 tvg-name="日本麻将" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本麻将.png" group-title="🀄棋牌频道",日本麻将
 https://live.iill.top/bilibili/30841267
+#EXTINF:-1 tvg-name="芈月传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/芈月传.png" group-title="📺轮播影视",芈月传
+https://live.ottiptv.cc/huya/11352975
+#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="📺轮播影视",狂飙
+https://live.ottiptv.cc/yy/1355142167
+#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="📺轮播影视",狂飙
+https://live.ottiptv.cc/yy/1382626335
+#EXTINF:-1 tvg-name="伪装者" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伪装者.png" group-title="📺轮播影视",伪装者
+https://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1 tvg-name="伪装者" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伪装者.png" group-title="📺轮播影视",伪装者
+https://live.ottiptv.cc/yy/1382851593
+#EXTINF:-1 tvg-name="伪装者" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伪装者.png" group-title="📺轮播影视",伪装者
+http://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1 tvg-name="情满四合院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/情满四合院.png" group-title="📺轮播影视",情满四合院
+https://live.ottiptv.cc/yy/1382851524
+#EXTINF:-1 tvg-name="情满四合院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/情满四合院.png" group-title="📺轮播影视",情满四合院
+https://live.ottiptv.cc/yy/1382736848
 #EXTINF:-1 tvg-name="情满四合院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/情满四合院.png" group-title="📺轮播影视",情满四合院
 http://tv123.top:35455/huya/11342426
 #EXTINF:-1 tvg-name="情满四合院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/情满四合院.png" group-title="📺轮播影视",情满四合院
 https://live.iill.top/huya/11342426
+#EXTINF:-1 tvg-name="济公" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/济公.png" group-title="📺轮播影视",济公
+https://live.ottiptv.cc/yy/1355265814
+#EXTINF:-1 tvg-name="新水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新水浒传.png" group-title="📺轮播影视",新水浒传
+https://live.ottiptv.cc/huya/11342384
+#EXTINF:-1 tvg-name="少年包青天" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天.png" group-title="📺轮播影视",少年包青天
+https://live.ottiptv.cc/yy/1356043677
+#EXTINF:-1 tvg-name="少年包青天" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天.png" group-title="📺轮播影视",少年包青天
+https://live.ottiptv.cc/yy/1414846486
+#EXTINF:-1 tvg-name="神医喜来乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神医喜来乐.png" group-title="📺轮播影视",神医喜来乐
+https://live.ottiptv.cc/yy/1382714119
+#EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="📺轮播影视",神探狄仁杰
+https://live.ottiptv.cc/douyu/12655359
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="📺轮播影视",宰相刘罗锅
+https://live.ottiptv.cc/yy/1353892468
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="📺轮播影视",宰相刘罗锅
+https://live.ottiptv.cc/yy/1382745191
+#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="📺轮播影视",铁齿铜牙纪晓岚
+https://live.ottiptv.cc/yy/1354143978
+#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="📺轮播影视",铁齿铜牙纪晓岚
+https://live.ottiptv.cc/yy/1352227227
+#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雍正王朝.png" group-title="📺轮播影视",雍正王朝
+https://live.ottiptv.cc/huya/11342439
+#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雍正王朝.png" group-title="📺轮播影视",雍正王朝
+https://live.ottiptv.cc/yy/1356043620
+#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雍正王朝.png" group-title="📺轮播影视",雍正王朝
+https://live.ottiptv.cc/yy/1459714870
 #EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙王朝.png" group-title="📺轮播影视",康熙王朝
 http://live.iill.top/huya.php?id=11352940
+#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙王朝.png" group-title="📺轮播影视",康熙王朝
+https://live.ottiptv.cc/huya/11352940
+#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙王朝.png" group-title="📺轮播影视",康熙王朝
+https://live.ottiptv.cc/yy/1382851583
+#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="📺轮播影视",康熙微服私访记
+https://live.ottiptv.cc/huya/11342418
+#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="📺轮播影视",康熙微服私访记
+https://live.ottiptv.cc/yy/1352811698
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="📺轮播影视",武林外传
 https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="📺轮播影视",武林外传
 http://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="📺轮播影视",武林外传
+https://live.ottiptv.cc/yy/1355652820
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="📺轮播影视",武林外传
+https://live.ottiptv.cc/yy/1355344777
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="📺轮播影视",武林外传
+http://live.ottiptv.cc/yy/1355652820
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="📺轮播影视",武林外传
 https://live.iill.top/huya/30080141
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="📺轮播影视",爱情公寓
+https://live.ottiptv.cc/huya/11336726
+#EXTINF:-1 tvg-name="我爱我家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我爱我家.png" group-title="📺轮播影视",我爱我家
+https://live.ottiptv.cc/yy/1382851580
+#EXTINF:-1 tvg-name="我爱我家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我爱我家.png" group-title="📺轮播影视",我爱我家
+https://live.ottiptv.cc/yy/1382735557

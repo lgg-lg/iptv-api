@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-08 06:58:50,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-04-09 06:58:54,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -669,8 +669,10 @@ CETV-4,https://mgcn.chinacert.cftest5.cn/923287339
 兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8?stbid=
 兵器科技,http://cyong.top:4022/rtp/239.69.1.79:10114
+老故事,https://www.freetv.top/migu/884121956.m3u8?migutoken=550b8ac2d06ef43bd80e29582185fe693959996048d7b572ce1659fe9376b6101cf9002c0034445668d6e11645eab13a11978ca20adae4f4248041add5d27f4d8e71fd2a4e44fd398c8fb3614b
 老故事,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8?stbid=
 老故事,https://itv.809899.xyz/migu.php?id=lgs
+赵本山小品,https://live.ottiptv.cc/douyu/9817716
 赵本山小品,https://live.iill.top/douyu/9817716
 
 📡卫视频道,#genre#
@@ -1766,6 +1768,7 @@ CETV-4,https://mgcn.chinacert.cftest5.cn/923287339
 第一财经,http://mgsp-zy2.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20260303080209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=218.28.233.106&SecurityKey=20260303080209&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=22fe7f46839da7b3fee8fa90c391d347&sv=10004&ct=android
 第一财经,http://mgsp-tx2.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20260227160209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=218.28.233.106&SecurityKey=20260227160209&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6c4488239bf67b0b4617e5252ddc4a10&sv=10004&ct=android
 第一财经,http://mgsp-zy2.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20260228160236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=218.28.233.106&SecurityKey=20260228160236&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=27e56cb9bb8b69962e6dd37cd01e90dd&sv=10004&ct=android
+第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=94882e783c75b9369ca6a018f97fe3a3c0018f9da123958e316bb810ef22e907f0672a7d63496e5cb5041eb125b1f1ee6996ac856b0c0c9828348878b8a4101384b9a851fb1dea60a7fafeea35
 第一财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
@@ -1775,6 +1778,7 @@ CETV-4,https://mgcn.chinacert.cftest5.cn/923287339
 第一财经,https://itv.809899.xyz/migu.php?id=dycj
 
 📺电视剧频道,#genre#
+东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
 东方影视,http://ydn.wzy80119.top:5080/migu720p.php?id=617290047
 欢笑剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
@@ -1798,6 +1802,8 @@ CETV-4,https://mgcn.chinacert.cftest5.cn/923287339
 湖南电视剧,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8
 
 🎬电影频道,#genre#
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448840&livemode=1&stbId=4
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?stbid=
 CHC家庭影院,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226319/01.m3u8?fmt=ts2hls
@@ -1807,6 +1813,7 @@ CHC家庭影院,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.60:5540
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
 CHC家庭影院,https://mgcn.chinacert.cftest5.cn/644368373
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d
 CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448842&livemode=1&stbId=4
 CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?stbid=
@@ -1972,6 +1979,7 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
+劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 劲爆体育,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=shjs
 劲爆体育,http://k.061899.xyz/m.php?id=jbty
 超级体育,http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
@@ -1995,6 +2003,7 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 睛彩竞技,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/01.m3u8
 睛彩竞技,http://missyao.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩竞技,http://missyao.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d
 
 🀄棋牌频道,#genre#
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
@@ -2017,9 +2026,40 @@ JJ麻将冠军杯,https://live.iill.top/douyu/10684745
 日本麻将,https://live.iill.top/bilibili/30841267
 
 📺轮播影视,#genre#
+芈月传,https://live.ottiptv.cc/huya/11352975
+狂飙,https://live.ottiptv.cc/yy/1355142167
+狂飙,https://live.ottiptv.cc/yy/1382626335
+伪装者,https://live.ottiptv.cc/yy/1354936244
+伪装者,https://live.ottiptv.cc/yy/1382851593
+伪装者,http://live.ottiptv.cc/yy/1354936244
+情满四合院,https://live.ottiptv.cc/yy/1382851524
+情满四合院,https://live.ottiptv.cc/yy/1382736848
 情满四合院,http://tv123.top:35455/huya/11342426
 情满四合院,https://live.iill.top/huya/11342426
+济公,https://live.ottiptv.cc/yy/1355265814
+新水浒传,https://live.ottiptv.cc/huya/11342384
+少年包青天,https://live.ottiptv.cc/yy/1356043677
+少年包青天,https://live.ottiptv.cc/yy/1414846486
+神医喜来乐,https://live.ottiptv.cc/yy/1382714119
+神探狄仁杰,https://live.ottiptv.cc/douyu/12655359
+宰相刘罗锅,https://live.ottiptv.cc/yy/1353892468
+宰相刘罗锅,https://live.ottiptv.cc/yy/1382745191
+铁齿铜牙纪晓岚,https://live.ottiptv.cc/yy/1354143978
+铁齿铜牙纪晓岚,https://live.ottiptv.cc/yy/1352227227
+雍正王朝,https://live.ottiptv.cc/huya/11342439
+雍正王朝,https://live.ottiptv.cc/yy/1356043620
+雍正王朝,https://live.ottiptv.cc/yy/1459714870
 康熙王朝,http://live.iill.top/huya.php?id=11352940
+康熙王朝,https://live.ottiptv.cc/huya/11352940
+康熙王朝,https://live.ottiptv.cc/yy/1382851583
+康熙微服私访记,https://live.ottiptv.cc/huya/11342418
+康熙微服私访记,https://live.ottiptv.cc/yy/1352811698
 武林外传,https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
 武林外传,http://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
+武林外传,https://live.ottiptv.cc/yy/1355652820
+武林外传,https://live.ottiptv.cc/yy/1355344777
+武林外传,http://live.ottiptv.cc/yy/1355652820
 武林外传,https://live.iill.top/huya/30080141
+爱情公寓,https://live.ottiptv.cc/huya/11336726
+我爱我家,https://live.ottiptv.cc/yy/1382851580
+我爱我家,https://live.ottiptv.cc/yy/1382735557
