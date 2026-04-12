@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260411224719 +0800">
+<tv date="20260412224901 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11414,5 +11414,134 @@
 	</programme>
 	<programme channel="黑龙江都市" start="20260126231500 +0800" stop="20260126235900 +0800">
 		<title lang="zh">午夜剧场</title>
+	</programme>
+	<channel id="茶频道">
+		<display-name lang="zh">茶频道</display-name>
+	</channel>
+	<programme channel="茶频道" start="20260413000000 +0800" stop="20260413003000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260413003000 +0800" stop="20260413013000 +0800">
+		<title lang="zh">倩倩直播间精编版</title>
+	</programme>
+	<programme channel="茶频道" start="20260413013000 +0800" stop="20260413080500 +0800">
+		<title lang="zh">遇见茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260413080500 +0800" stop="20260413082500 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260413082500 +0800" stop="20260413093000 +0800">
+		<title lang="zh">洞察</title>
+	</programme>
+	<programme channel="茶频道" start="20260413093000 +0800" stop="20260413094500 +0800">
+		<title lang="zh">加油吧，茶艺师</title>
+	</programme>
+	<programme channel="茶频道" start="20260413094500 +0800" stop="20260413100000 +0800">
+		<title lang="zh">蹭茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260413100000 +0800" stop="20260413103500 +0800">
+		<title lang="zh">雅市茶空间</title>
+	</programme>
+	<programme channel="茶频道" start="20260413103500 +0800" stop="20260413110000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260413110000 +0800" stop="20260413150000 +0800">
+		<title lang="zh">最美茶艺师</title>
+	</programme>
+	<programme channel="茶频道" start="20260413150000 +0800" stop="20260413154000 +0800">
+		<title lang="zh">雅市茶空间</title>
+	</programme>
+	<programme channel="茶频道" start="20260413154000 +0800" stop="20260413161000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260413161000 +0800" stop="20260413175500 +0800">
+		<title lang="zh">茗声大震</title>
+	</programme>
+	<programme channel="茶频道" start="20260413175500 +0800" stop="20260413182500 +0800">
+		<title lang="zh">遇见茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260413182500 +0800" stop="20260413184000 +0800">
+		<title lang="zh">蹭茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260413184000 +0800" stop="20260413190000 +0800">
+		<title lang="zh">茯茶学院</title>
+	</programme>
+	<programme channel="茶频道" start="20260413190000 +0800" stop="20260413191500 +0800">
+		<title lang="zh">加油吧，茶艺师</title>
+	</programme>
+	<programme channel="茶频道" start="20260413191500 +0800" stop="20260413193000 +0800">
+		<title lang="zh">蹭茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260413193000 +0800" stop="20260413200000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260413200000 +0800" stop="20260413210500 +0800">
+		<title lang="zh">洞察</title>
+	</programme>
+	<programme channel="茶频道" start="20260413210500 +0800" stop="20260414000000 +0800">
+		<title lang="zh">最美茶艺师</title>
+	</programme>
+	<programme channel="茶频道" start="20260414000000 +0800" stop="20260414003000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260414003000 +0800" stop="20260414013000 +0800">
+		<title lang="zh">倩倩直播间精编版</title>
+	</programme>
+	<programme channel="茶频道" start="20260414013000 +0800" stop="20260414080500 +0800">
+		<title lang="zh">遇见茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260414080500 +0800" stop="20260414082500 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260414082500 +0800" stop="20260414093000 +0800">
+		<title lang="zh">洞察</title>
+	</programme>
+	<programme channel="茶频道" start="20260414093000 +0800" stop="20260414094500 +0800">
+		<title lang="zh">加油吧，茶艺师</title>
+	</programme>
+	<programme channel="茶频道" start="20260414094500 +0800" stop="20260414100000 +0800">
+		<title lang="zh">蹭茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260414100000 +0800" stop="20260414103500 +0800">
+		<title lang="zh">雅市茶空间</title>
+	</programme>
+	<programme channel="茶频道" start="20260414103500 +0800" stop="20260414110000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260414110000 +0800" stop="20260414150000 +0800">
+		<title lang="zh">最美茶艺师</title>
+	</programme>
+	<programme channel="茶频道" start="20260414150000 +0800" stop="20260414154000 +0800">
+		<title lang="zh">雅市茶空间</title>
+	</programme>
+	<programme channel="茶频道" start="20260414154000 +0800" stop="20260414161000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260414161000 +0800" stop="20260414175500 +0800">
+		<title lang="zh">茗声大震</title>
+	</programme>
+	<programme channel="茶频道" start="20260414175500 +0800" stop="20260414182500 +0800">
+		<title lang="zh">遇见茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260414182500 +0800" stop="20260414184000 +0800">
+		<title lang="zh">蹭茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260414184000 +0800" stop="20260414190000 +0800">
+		<title lang="zh">茯茶学院</title>
+	</programme>
+	<programme channel="茶频道" start="20260414190000 +0800" stop="20260414191500 +0800">
+		<title lang="zh">加油吧，茶艺师</title>
+	</programme>
+	<programme channel="茶频道" start="20260414191500 +0800" stop="20260414193000 +0800">
+		<title lang="zh">蹭茶</title>
+	</programme>
+	<programme channel="茶频道" start="20260414193000 +0800" stop="20260414200000 +0800">
+		<title lang="zh">茶闻天下</title>
+	</programme>
+	<programme channel="茶频道" start="20260414200000 +0800" stop="20260414210500 +0800">
+		<title lang="zh">洞察</title>
+	</programme>
+	<programme channel="茶频道" start="20260414210500 +0800" stop="20260415020000 +0800">
+		<title lang="zh">最美茶艺师</title>
 	</programme>
 </tv>
