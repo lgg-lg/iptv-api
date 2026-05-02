@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-02 07:41:24,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-05-03 07:42:07,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -584,6 +584,7 @@ CETV-2,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 CETV-2,http://gfr.x3322.net:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227194/1.m3u8
 CETV-2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV-2,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
@@ -612,6 +613,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 CETV-4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
 CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/1.m3u8
 CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
@@ -622,30 +624,34 @@ CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.200.162:5140
 CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
-CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 
 💰央视付费频道,#genre#
 文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央视台球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244803/main.m3u8?stbid=
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 央视台球,http://cyong.top:4022/rtp/239.69.1.98:10224
 风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云音乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244809/main.m3u8?stbid=
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 第一剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8?stbid=
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
 第一剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079
 第一剧场,http://cyong.top:4022/rtp/239.69.1.74:10084
 风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/main.m3u8?stbid=
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 怀旧剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8?stbid=
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
 女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 女性时尚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244811/main.m3u8?stbid=
+女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高尔夫网球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244801/main.m3u8?stbid=
@@ -655,6 +661,8 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8?stbid=
 风云足球,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226302/01.m3u8?fmt=ts2hls
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://share.xlangnan.cn:10316/rtp/239.254.201.222:7251
 风云足球,http://emby.xlangnan.cn:10316/rtp/239.254.201.222:7251
 风云足球,http://dsm.xlangnan.cn:10316/rtp/239.254.201.222:7251
@@ -669,6 +677,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 世界地理,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/main.m3u8?stbid=
 世界地理,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226290/01.m3u8?fmt=ts2hls
+世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 世界地理,http://share.xlangnan.cn:10316/rtp/239.254.201.226:7254
 世界地理,http://emby.xlangnan.cn:10316/rtp/239.254.201.226:7254
 世界地理,http://dsm.xlangnan.cn:10316/rtp/239.254.201.226:7254
@@ -685,6 +694,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 世界地理,http://cyong.top:4022/rtp/239.69.1.91:10186
 兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8?stbid=
+兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
 兵器科技,http://cyong.top:4022/rtp/239.69.1.79:10114
 老故事,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8?stbid=
 老故事,https://mgcn.chinacert.cftest5.cn/810326846
@@ -1686,6 +1696,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 农林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
 农林卫视,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225696/10000100000000060000000000146072_0.smil/index.m3u8
 农林卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/01.m3u8
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 农林卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227497/index.m3u8
 农林卫视,http://ott.mobaibox.com/PLTV/-/224/3221227648/index.m3u8
 农林卫视,http://ott.mobaibox.com/PLTV/-/224/3221227015/index.m3u8
@@ -1718,6 +1729,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海新闻综合,https://mgcn.chinacert.cftest5.cn/651632657
 上海纪实,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
+上海纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海都市,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
 上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
@@ -1749,6 +1761,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 哈哈炫动,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/01.m3u8
+哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226596/1.m3u8
 哈哈炫动,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226703/1.m3u8
 哈哈炫动,http://ott.mobaibox.com/PLTV/-/224/3221227586/index.m3u8
@@ -1842,6 +1855,7 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
 湖北影视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbys
+湖南电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8765482907954673867
 湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182309/main.m3u8?stbid=
 湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000196987/main.m3u8?stbid=
 湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
@@ -1895,6 +1909,7 @@ CHC动作电影,http://czkeji.vip:9000/rtp/239.252.219.85:5140
 CHC动作电影,https://mgcn.chinacert.cftest5.cn/644368714
 CHC动作电影,https://mgcn.chinacert.cftest5.cn/265218967
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
+湖南电影,http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7884242846753128038
 湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182320/main.m3u8?stbid=
 湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197673/main.m3u8?stbid=
 湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001246/main.m3u8
@@ -1912,10 +1927,12 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+湖南娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 湖南娱乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197674/main.m3u8?stbid=
 湖南娱乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182313/main.m3u8?stbid=
 湖南娱乐,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001248/main.m3u8
 湖南娱乐,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8
+湖南都市,http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4682579636905393407
 湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182308/main.m3u8?stbid=
 湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000195952/main.m3u8?stbid=
 湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001249/main.m3u8
@@ -1965,9 +1982,11 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
 河北都市,http://tv.pull.hebtv.com:80/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f
@@ -2055,6 +2074,7 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 广东体育,https://www.gdtv.cn/tvChannelDetail/47
 广东体育,http://k.061899.xyz/m.php?id=gdty
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://wsc2007123.myds.me:30100/rtp/233.18.204.58:5140
 五星体育,http://a.708d.com:10010/udp/239.45.3.210:5140
