@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 07:24:12,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-05-12 07:35:03,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -582,6 +582,7 @@ CETV-2,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/inde
 CETV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/482524877.smil/index.m3u8?fmt=ts2hls
 CETV-2,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361367/main.m3u8
 CETV-2,http://gfr.x3322.net:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-2,http://admin:admin@clnas0001.top:9981/stream/channelid/599778590?profile=pass
 CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
@@ -1740,6 +1741,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
+东方财经,http://admin:admin@clnas0001.top:9981/stream/channelid/1267487368?profile=pass
 东方财经,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://clnas0001.top:9981/stream/channelid/1267487368?profile=pass
@@ -1747,6 +1749,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.177:5140
 动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8?channel-id=ystenlive&Contentid=2210585548805959716256407&livemode=1&stbId=4
 动漫秀场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
+动漫秀场,http://admin:admin@clnas0001.top:9981/stream/channelid/1912852200?profile=pass
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555886@BESTV.SMG.SMG
 动漫秀场,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555886@BESTV.SMG.SMG
@@ -1779,12 +1782,15 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 哈哈炫动,http://ydn.wzy80119.top:5080/kknews.php?id=hhxd
 哈哈炫动,http://a.708d.com:10010/udp/239.45.1.55:5140
 法治天地,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
+法治天地,http://admin:admin@clnas0001.top:9981/stream/channelid/506310005?profile=pass
 法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
 法治天地,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1373@BESTV.SMG.SMG
 法治天地,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1373@BESTV.SMG.SMG
 法治天地,http://clnas0001.top:9981/stream/channelid/506310005?profile=pass
 法治天地,http://www.yeqi.eu.org:4000/rtp/233.50.200.120:5140
 法治天地,http://www.yeqi.eu.org:4000/rtp/233.50.201.191:5140
+生活时尚,http://admin:admin@clnas0001.top:9981/stream/channelid/1848359668?profile=pass
+生活时尚,http://admin:admin@clnas0001.top:9981/stream/channelid/605136205?profile=pass
 生活时尚,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555893@BESTV.SMG.SMG
 生活时尚,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555893@BESTV.SMG.SMG
 生活时尚,http://clnas0001.top:9981/stream/channelid/1848359668?profile=pass
@@ -1833,6 +1839,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
 东方影视,http://ydn.wzy80119.top:5080/migu720p.php?id=617290047
 欢笑剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
+欢笑剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/495251171?profile=pass
 欢笑剧场,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1367710@BESTV.SMG.SMG
 欢笑剧场,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1367710@BESTV.SMG.SMG
 欢笑剧场,http://clnas0001.top:9981/stream/channelid/495251171?profile=pass
@@ -1847,6 +1854,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 欢笑剧场,http://hs.imyjy.cn:7088/rtp/233.50.200.52:5140
 都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
 都市剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
+都市剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/1304627377?profile=pass
 都市剧场,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555881@BESTV.SMG.SMG
 都市剧场,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555881@BESTV.SMG.SMG
 都市剧场,http://clnas0001.top:9981/stream/channelid/1304627377?profile=pass
@@ -1877,6 +1885,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448840&livemode=1&stbId=4
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?stbid=
 CHC家庭影院,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226319/01.m3u8?fmt=ts2hls
+CHC家庭影院,http://admin:admin@clnas0001.top:9981/stream/channelid/1234614713?profile=pass
 CHC家庭影院,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/.m3u8
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 CHC家庭影院,http://clnas0001.top:9981/stream/channelid/1234614713?profile=pass
@@ -1901,6 +1910,7 @@ CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u
 CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?stbid=
 CHC动作电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226308/01.m3u8?fmt=ts2hls
 CHC动作电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
+CHC动作电影,http://admin:admin@clnas0001.top:9981/stream/channelid/1743737274?profile=pass
 CHC动作电影,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongzuody/1.m3u8
 CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC动作电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/.m3u8
@@ -1930,6 +1940,7 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 湖南电影,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-film.m3u8
 黑莓电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
 经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
+星空卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1901935715?profile=pass
 星空卫视,http://clnas0001.top:9981/stream/channelid/1901935715?profile=pass
 星空卫视,http://iptv.huuc.edu.cn/player.html?channel=startv
 
@@ -1966,6 +1977,7 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182315/main.m3u8?stbid=
 金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/main.m3u8
 金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/01.m3u8?fmt=ts2hls
+金鹰纪实,http://admin:admin@clnas0001.top:9981/stream/channelid/455582868?profile=pass
 金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/01.m3u8
 金鹰纪实,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/4766929@BESTV.SMG.SMG
 金鹰纪实,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/4766929@BESTV.SMG.SMG
