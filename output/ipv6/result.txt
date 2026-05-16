@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-16 07:35:21,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-05-17 07:23:51,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1743,6 +1743,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
+东方财经,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229471/139134633.smil
 东方财经,http://admin:admin@clnas0001.top:9981/stream/channelid/1267487368?profile=pass
 东方财经,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
@@ -1750,6 +1751,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 东方财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.177:5140
 动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8?channel-id=ystenlive&Contentid=2210585548805959716256407&livemode=1&stbId=4
+动漫秀场,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229236/72486907.smil
 动漫秀场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
 动漫秀场,http://admin:admin@clnas0001.top:9981/stream/channelid/1912852200?profile=pass
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
@@ -1791,6 +1793,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 法治天地,http://clnas0001.top:9981/stream/channelid/506310005?profile=pass
 法治天地,http://www.yeqi.eu.org:4000/rtp/233.50.200.120:5140
 法治天地,http://www.yeqi.eu.org:4000/rtp/233.50.201.191:5140
+生活时尚,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229277/72486909.smil
 生活时尚,http://admin:admin@clnas0001.top:9981/stream/channelid/1848359668?profile=pass
 生活时尚,http://admin:admin@clnas0001.top:9981/stream/channelid/605136205?profile=pass
 生活时尚,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555893@BESTV.SMG.SMG
@@ -1840,6 +1843,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
 东方影视,http://ydn.wzy80119.top:5080/migu720p.php?id=617290047
+欢笑剧场,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229240/72486906.smil
 欢笑剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 欢笑剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/495251171?profile=pass
 欢笑剧场,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1367710@BESTV.SMG.SMG
@@ -1855,6 +1859,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 欢笑剧场,http://hs.imyjy.cn:7088/rtp/233.50.201.189:5140
 欢笑剧场,http://hs.imyjy.cn:7088/rtp/233.50.200.52:5140
 都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
+都市剧场,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229244/72486950.smil
 都市剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
 都市剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/1304627377?profile=pass
 都市剧场,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/1555881@BESTV.SMG.SMG
@@ -2005,11 +2010,15 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 金鹰纪实,http://vencentnas.com:7088/rtp/239.3.1.58:8156
 金鹰纪实,http://b.xiongnas.top:8888/rtp/239.3.1.58:8156
 金鹰纪实,http://a.xiongnas.top:8888/rtp/239.3.1.58:8156
+浙江生活,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229115/10000100000000060000000004799165_0.smil
+浙江生活,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227778/10000100000000060000000000304143_0.smil
 浙江生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
 浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江生活,https://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+浙江民生休闲,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229045/10000100000000060000000004799162_0.smil
+浙江民生休闲,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227800/10000100000000060000000000304166_0.smil
 浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 浙江民生休闲,https://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
