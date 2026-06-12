@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-12 07:48:47,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-06-13 07:45:50,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1844,6 +1844,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
 东方影视,http://ydn.wzy80119.top:5080/migu720p.php?id=617290047
+东方影视,https://live.chinacert.cftest5.cn/cnmg/live/617290047
 欢笑剧场,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229240/72486906.smil
 欢笑剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 欢笑剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/495251171?profile=pass
@@ -1876,6 +1877,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 都市剧场,http://kms.yzzdxc.cn:16666/rtp/239.37.0.241:5540
 都市剧场,http://hs.imyjy.cn:7088/rtp/233.50.201.190:5140
 都市剧场,http://tv.yzzdxc.cn:16666/rtp/239.37.0.241:5540
+都市剧场,http://www.frankgb.cn:4022/udp/239.49.0.99:8000
 都市剧场,http://a.708d.com:10010/udp/239.45.3.136:5140
 哈尔滨影视,http://streamings.hrbtv.net/live/4f28da88b8984bcbbced624179617f2c?fmt=h264_400k_flv
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
@@ -2151,6 +2153,7 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 睛彩篮球,http://www.huijie5421.cn:8800/rtp/239.49.8.42:8000
 睛彩篮球,http://b.xiongnas.top:8888/rtp/239.3.1.126:8001
 睛彩篮球,http://a.xiongnas.top:8888/rtp/239.3.1.126:8001
+睛彩篮球,http://www.frankgb.cn:4022/udp/239.49.8.42:8000
 睛彩篮球,http://hs.imyjy.cn:7088/rtp/233.50.202.27:5140
 睛彩篮球,http://www.ljun.cc:4022/rtp/239.3.1.126:8001
 睛彩篮球,http://x1x.bid:5146/rtp/239.3.1.126:8001
@@ -2166,6 +2169,7 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 睛彩竞技,http://www.huijie5421.cn:8800/rtp/239.49.8.39:8000
 睛彩竞技,http://b.xiongnas.top:8888/rtp/239.3.1.125:8001
 睛彩竞技,http://a.xiongnas.top:8888/rtp/239.3.1.125:8001
+睛彩竞技,http://www.frankgb.cn:4022/udp/239.49.8.39:8000
 睛彩竞技,http://hs.imyjy.cn:7088/rtp/233.50.202.26:5140
 睛彩竞技,http://www.ljun.cc:4022/rtp/239.3.1.125:8001
 睛彩竞技,http://x1x.bid:5146/rtp/239.3.1.125:8001
