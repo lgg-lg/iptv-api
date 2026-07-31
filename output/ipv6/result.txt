@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-31 07:11:45,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-08-01 07:19:09,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -639,42 +639,58 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央视台球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244803/main.m3u8?stbid=
+央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 央视台球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227506/index.m3u8
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 央视台球,http://cyong.top:4022/rtp/239.69.1.98:10224
 风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云音乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244809/main.m3u8?stbid=
+风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
 风云音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227504/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 第一剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8?stbid=
+第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
 第一剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227498/index.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
 第一剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079
 第一剧场,http://cyong.top:4022/rtp/239.69.1.74:10084
 风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/main.m3u8?stbid=
+风云剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+风云剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
 风云剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227500/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 怀旧剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8?stbid=
+怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 怀旧剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
 女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 女性时尚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244811/main.m3u8?stbid=
+女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高尔夫网球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244801/main.m3u8?stbid=
 高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 高尔夫网球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227508/index.m3u8
 高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
 高尔夫网球,http://cyong.top:4022/rtp/239.69.1.83:10138
 风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8?stbid=
+风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 风云足球,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226302/01.m3u8?fmt=ts2hls
 风云足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
@@ -692,6 +708,8 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 风云足球,http://cyong.top:4022/rtp/239.69.1.81:10126
 世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 世界地理,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/main.m3u8?stbid=
+世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 世界地理,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226290/01.m3u8?fmt=ts2hls
 世界地理,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227512/index.m3u8
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
@@ -711,6 +729,8 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 世界地理,http://cyong.top:4022/rtp/239.69.1.91:10186
 兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8?stbid=
+兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 兵器科技,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227485/index.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
 兵器科技,http://cyong.top:4022/rtp/239.69.1.79:10114
@@ -720,7 +740,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 求索记录,http://clnas0001.top:9981/stream/channelid/729762286?profile=pass
 求索记录,http://clnas0001.top:9981/stream/channelid/729762287?profile=pass
 求索记录,http://clnas0001.top:9981/stream/channelid/729762288?profile=pass
-赵本山小品,https://live.iill.top/douyu/9817716
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -1726,6 +1745,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 农林卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260627040232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20260627040232&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=864d52dbfc7655a385f5b219ca1c87de&sv=10004&ct=android
 农林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
 农林卫视,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225696/10000100000000060000000000146072_0.smil/index.m3u8
+农林卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 农林卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/01.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 农林卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227497/index.m3u8
@@ -2023,7 +2043,6 @@ CHC动作电影,http://17752995.xyz:51111/644368714
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州文化生活,http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv5.
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
@@ -2050,6 +2069,8 @@ CHC动作电影,http://17752995.xyz:51111/644368714
 金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197675/main.m3u8?stbid=
 金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182315/main.m3u8?stbid=
 金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/main.m3u8
+金鹰纪实,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+金鹰纪实,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
 金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/01.m3u8?fmt=ts2hls
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?fmt=ts2hls
 金鹰纪实,http://admin:admin@clnas0001.top:9981/stream/channelid/455582868?profile=pass
@@ -2202,9 +2223,7 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://nas.jqcykj.com:88/shanghai/?id=wxty
-五星体育,http://k.061899.xyz/m.php?id=wxty
 劲爆体育,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=shjs
-劲爆体育,http://k.061899.xyz/m.php?id=jbty
 超级体育,http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 广州竞赛,http://rustdesk.szsun.xyz:8088/udp/239.253.43.75:5146
 辽宁体育,http://17752995.xyz:51111/962067526
@@ -2243,6 +2262,8 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 睛彩竞技,http://hs.imyjy.cn:7088/rtp/233.50.202.26:5140
 睛彩竞技,http://www.ljun.cc:4022/rtp/239.3.1.125:8001
 睛彩竞技,http://x1x.bid:5146/rtp/239.3.1.125:8001
+足球频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
+足球频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
 
 🀄棋牌频道,#genre#
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
@@ -2270,7 +2291,6 @@ JJ麻将冠军杯,https://live.iill.top/douyu/10684745
 情满四合院,http://nas.jqcykj.com:88/yy?id=1382736848
 情满四合院,http://nas.jqcykj.com:88/yy?id=1382851524
 情满四合院,http://tv123.top:35455/huya/11342426
-情满四合院,https://live.iill.top/huya/11342426
 济公,http://nas.jqcykj.com:88/yy?id=1355265814
 少年包青天,http://nas.jqcykj.com:88/yy?id=1356043677
 少年包青天,http://nas.jqcykj.com:88/yy?id=1414846486
@@ -2281,7 +2301,6 @@ JJ麻将冠军杯,https://live.iill.top/douyu/10684745
 铁齿铜牙纪晓岚,http://nas.jqcykj.com:88/yy?id=1354143978
 铁齿铜牙纪晓岚,http://nas.jqcykj.com:88/yy?id=1352227227
 雍正王朝,http://nas.jqcykj.com:88/yy?id=1356043620
-康熙王朝,http://live.iill.top/huya.php?id=11352940
 康熙微服私访记,http://nas.jqcykj.com:88/yy?id=1352811698
 武林外传,https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
 武林外传,http://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
