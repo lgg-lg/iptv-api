@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-03 07:01:59,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-08-04 07:25:34,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1748,6 +1748,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 农林卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 农林卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/01.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/index.m3u8
 农林卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227497/index.m3u8
 农林卫视,http://ott.mobaibox.com/PLTV/-/224/3221227648/index.m3u8
 农林卫视,http://ott.mobaibox.com/PLTV/-/224/3221227015/index.m3u8
@@ -1992,6 +1993,7 @@ CHC家庭影院,http://nas.yzzdxc.cn:16666/rtp/239.37.0.188:5540
 CHC家庭影院,http://kms.yzzdxc.cn:16666/rtp/239.37.0.188:5540
 CHC家庭影院,http://tv.yzzdxc.cn:16666/rtp/239.37.0.188:5540
 CHC家庭影院,http://czkeji.vip:9000/rtp/239.252.219.84:5140
+CHC家庭影院,http://fn.gcl.de5.net:5908/gsh950428/644368373
 CHC家庭影院,https://mgcn.chinacert.cftest5.cn/644368373
 CHC家庭影院,https://mgcn.chinacert.cftest5.cn/265667645
 CHC家庭影院,http://17752995.xyz:51111/644368373
