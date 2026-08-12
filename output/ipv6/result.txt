@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-12 07:11:50,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-08-13 07:00:33,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -2009,6 +2009,7 @@ CHC家庭影院,http://czkeji.vip:9000/rtp/239.252.219.84:5140
 CHC家庭影院,http://fn.gcl.de5.net:5908/gsh950428/644368373
 CHC家庭影院,https://mgcn.chinacert.cftest5.cn/644368373
 CHC家庭影院,https://mgcn.chinacert.cftest5.cn/265667645
+CHC家庭影院,http://www.ikerobot.com:1234/644368373
 CHC家庭影院,http://17752995.xyz:51111/644368373
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
 CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448842&livemode=1&stbId=4
