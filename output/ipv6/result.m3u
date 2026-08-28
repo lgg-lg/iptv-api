@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lgg-lg/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-27 10:43:20
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-28 14:18:30
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -3598,6 +3598,8 @@ http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%9C%E6%96%B9
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海频道",东方财经
 http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229471/139134633.smil
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海频道",东方财经
+http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海频道",东方财经
 http://admin:admin@clnas0001.top:9981/stream/channelid/1267487368?profile=pass
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海频道",东方财经
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
@@ -3698,6 +3700,8 @@ http://a.708d.com:10010/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="☘️上海频道",法治天地
 http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="☘️上海频道",法治天地
+http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="☘️上海频道",法治天地
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="☘️上海频道",法治天地
 http://admin:admin@clnas0001.top:9981/stream/channelid/506310005?profile=pass
@@ -3719,6 +3723,8 @@ http://www.yeqi.eu.org:4000/rtp/233.50.201.191:5140
 http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229277/72486909.smil
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
+http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://admin:admin@clnas0001.top:9981/stream/channelid/1848359668?profile=pass
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
@@ -3883,6 +3889,8 @@ http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E9%83%BD%E5%B8%82
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📺电视剧频道",都市剧场
 http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229244/72486950.smil
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📺电视剧频道",都市剧场
+http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📺电视剧频道",都市剧场
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📺电视剧频道",都市剧场
@@ -4074,6 +4082,8 @@ http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-film.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
 https://down-hls.qxiu.com/live/453135/index.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
 http://admin:admin@clnas0001.top:9981/stream/channelid/1901935715?profile=pass
@@ -4149,6 +4159,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="📍其他地方",金鹰纪实
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="📍其他地方",金鹰纪实
+http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="📍其他地方",金鹰纪实
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="📍其他地方",金鹰纪实
@@ -4472,6 +4484,8 @@ http://missyao.com:35455/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="🏀体育频道",北京体育休闲
 http://nas.jqcykj.com:88/bj?id=btvjs
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
+http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226403/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
@@ -4505,6 +4519,8 @@ http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
+http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226400/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
