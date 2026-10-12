@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-11 08:48:44,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-10-12 09:01:29,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -90,8 +90,8 @@ CCTV-3,http://www.yeqi.eu.org:4000/rtp/233.50.201.196:5140
 CCTV-3,http://www.yeqi.eu.org:4000/rtp/233.50.201.16:5140
 CCTV-3,https://live.chinacert.cftest5.cn/mg/?id=624878271
 CCTV-3,http://124.112.188.154:4022/rtp/238.1.78.170:7232
-CCTV-3,http://124.112.241.143:4022/rtp/238.1.78.170:7232
 CCTV-3,http://111.196.130.121:20000/rtp/239.3.1.172:8001
+CCTV-3,http://tv.laokhome.cn:19000/rtp/232.0.0.170:1234
 CCTV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 CCTV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000030093/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3
 CCTV-4,http://gfr.x3322.net:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -179,9 +179,9 @@ CCTV-5+,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv5jhd
 CCTV-5+,http://rustdesk.szsun.xyz:8088/udp/239.77.0.87:5146
 CCTV-5+,http://www.yeqi.eu.org:4000/rtp/233.50.201.220:5140
 CCTV-5+,http://nas.lyfkai.cn:19999/rtp/239.254.96.234:9484
-CCTV-5+,http://home.wscxy.fun:30100/udp/233.18.204.67:5140
 CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773
 CCTV-5+,http://111.196.130.121:20000/rtp/239.3.1.130:8004
+CCTV-5+,http://171.119.206.42:6000/rtp/226.0.2.168:9256
 CCTV-6,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008886/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
 CCTV-6,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018433/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=3
 CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=m3u8
@@ -240,8 +240,8 @@ CCTV-7,http://www.yeqi.eu.org:4000/rtp/233.50.200.24:5140
 CCTV-7,http://www.yeqi.eu.org:4000/rtp/233.50.200.48:5140
 CCTV-7,https://live.chinacert.cftest5.cn/mg/?id=673168121
 CCTV-7,http://nas.lyfkai.cn:19999/rtp/239.69.1.103:10256
-CCTV-7,http://124.112.241.143:4022/rtp/238.1.78.239:7784
 CCTV-7,http://www.yeqi.eu.org:4000/rtp/233.50.201.7:5140
+CCTV-7,http://111.196.130.121:20000/rtp/239.3.1.61:8104
 CCTV-8,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008888/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
 CCTV-8,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018377/1.m3u8?channel-id=bestzb&Contentid=5000000010000018377&livemode=1&stbId=3
 CCTV-8,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197692/main.m3u8?stbid=
@@ -268,10 +268,10 @@ CCTV-8,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv8hd
 CCTV-8,http://125.123.141.122:44022/rtp/233.50.201.199:5140
 CCTV-8,http://rustdesk.szsun.xyz:8088/udp/239.77.0.172:5146
 CCTV-8,http://www.yeqi.eu.org:4000/rtp/233.50.200.110:5140
-CCTV-8,http://home.wscxy.fun:30100/udp/233.18.204.74:5140
 CCTV-8,http://www.yeqi.eu.org:4000/rtp/233.50.201.19:5140
 CCTV-8,https://live.chinacert.cftest5.cn/mg/?id=624878356
 CCTV-8,http://demo.medrun.cn:4022/rtp/233.18.204.74:5140
+CCTV-8,http://124.112.188.154:4022/rtp/238.1.78.173:7256
 CCTV-9,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018384/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3
 CCTV-9,http://zteres.sn.chinamobile.com:6060/000000001000/5000000001000024017/1.m3u8?channel-id=bestzb&Contentid=5000000001000024017&livemode=1&stbId=3
 CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/main.m3u8?stbid=
@@ -300,8 +300,8 @@ CCTV-9,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv9hd
 CCTV-9,http://125.123.141.122:44022/rtp/233.50.201.121:5140
 CCTV-9,http://rustdesk.szsun.xyz:8088/udp/239.77.1.160:5146
 CCTV-9,http://www.yeqi.eu.org:4000/rtp/233.50.201.121:5140
-CCTV-9,http://home.wscxy.fun:30100/udp/233.18.204.75:5140
 CCTV-9,http://www.yeqi.eu.org:4000/rtp/233.50.200.23:5140
+CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140
 CCTV-10,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000012827/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
 CCTV-10,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
 CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -361,7 +361,7 @@ CCTV-11,http://www.yeqi.eu.org:4000/rtp/233.50.200.88:5140
 CCTV-11,http://www.yeqi.eu.org:4000/rtp/233.50.201.11:5140
 CCTV-11,https://live.chinacert.cftest5.cn/mg/?id=667987558
 CCTV-11,http://124.112.188.154:4022/rtp/238.1.78.206:7502
-CCTV-11,http://124.112.241.143:4022/rtp/238.1.78.206:7502
+CCTV-11,http://111.196.130.121:20000/rtp/239.3.1.152:8120
 CCTV-12,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031107/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3
 CCTV-12,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040012/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=3
 CCTV-12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
@@ -391,7 +391,7 @@ CCTV-12,http://www.yeqi.eu.org:4000/rtp/233.50.200.90:5140
 CCTV-12,http://www.yeqi.eu.org:4000/rtp/233.50.201.12:5140
 CCTV-12,https://live.chinacert.cftest5.cn/mg/?id=673168185
 CCTV-12,http://www.nlmxy.top:4000/rtp/233.50.201.123:5140
-CCTV-12,http://124.112.188.154:4022/rtp/238.1.78.242:7808
+CCTV-12,http://111.196.130.121:20000/rtp/239.3.1.64:8124
 CCTV-13,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 CCTV-13,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -421,7 +421,7 @@ CCTV-13,http://125.123.141.122:44022/rtp/233.50.201.13:5140
 CCTV-13,http://www.yeqi.eu.org:4000/rtp/233.50.200.111:5140
 CCTV-13,http://www.yeqi.eu.org:4000/rtp/233.50.201.246:5140
 CCTV-13,http://nas.lyfkai.cn:19999/rtp/239.254.96.161:9040
-CCTV-13,http://home.wscxy.fun:30100/udp/233.18.204.79:5140
+CCTV-13,http://www.yeqi.eu.org:4000/rtp/233.50.200.97:5140
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV-14,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006673/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
 CCTV-14,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000023358/1.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=3
@@ -481,7 +481,7 @@ CCTV-15,http://www.yeqi.eu.org:4000/rtp/233.50.200.91:5140
 CCTV-15,http://www.yeqi.eu.org:4000/rtp/233.50.201.15:5140
 CCTV-15,https://live.chinacert.cftest5.cn/mg/?id=673168223
 CCTV-15,http://124.112.188.154:4022/rtp/238.1.78.222:7648
-CCTV-15,http://124.112.241.143:4022/rtp/238.1.78.222:7648
+CCTV-15,http://111.196.130.121:20000/rtp/239.3.1.153:8136
 CCTV-16,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023253/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
 CCTV-16,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV-16,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8
@@ -511,7 +511,7 @@ CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
 CCTV-16,http://125.123.141.122:44022/rtp/233.50.201.63:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.200.112:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.201.192:5140
-CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
+CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-17,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000038/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000038&livemode=1&stbId=3
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8?stbid=
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024151/main.m3u8?stbid=
@@ -746,7 +746,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 兵器科技,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227485/index.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-兵器科技,http://home.wscxy.fun:30100/udp/233.18.204.178:5140
 兵器科技,http://cyong.top:4022/rtp/239.69.1.79:10114
 老故事,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8?stbid=
 老故事,https://mgcn.chinacert.cftest5.cn/810326846
@@ -1331,8 +1330,8 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 江西卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.53:5140
 江西卫视,https://live.chinacert.cftest5.cn/mg/?id=783847495
 江西卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.126:10394
-江西卫视,http://124.112.188.154:4022/rtp/238.1.78.26:6136
 江西卫视,http://home.szjim.top:4000/udp/239.77.1.219:5146
+江西卫视,http://124.112.188.154:4022/rtp/238.1.78.26:6136
 辽宁卫视,http://live1.nty.tv189.com/tm-dxlnws-4000k.m3u8?sign=97fe5c8752f7fbf34c6b6881cd158bfe&t=68cc5780&guid=4123d554-81f3-8016-2ba4-2a6596d95dd6
 辽宁卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls
 辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1600,9 +1599,9 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 深圳卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.101:5140
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/?id=shenzhen
 深圳卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.137:8896
-深圳卫视,http://home.wscxy.fun:30100/udp/233.18.204.89:5140
 深圳卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.3:5146
 深圳卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.45:5140
+深圳卫视,http://124.112.188.154:4022/rtp/238.1.78.156:7120
 三沙卫视,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260215040209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260215040209&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=20f7b9981249f26f63c351842d06beaf&sv=10004&ct=android
 三沙卫视,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260216040222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260216040222&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b96c6191efa0679bbbf1008933f4b1f4&sv=10004&ct=android
 三沙卫视,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260215080209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260215080209&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5c1bdd929e2bfa48bcdf56a87cabb536&sv=10004&ct=android
@@ -1722,7 +1721,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 新疆卫视,http://www.andy-nas.top:8623/rtp/239.76.252.109:9000
 新疆卫视,http://www.andy-nas.top:8623/rtp/239.76.245.109:1234
 新疆卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=xjws
-新疆卫视,http://124.112.188.154:4022/rtp/238.1.78.110:6752
+新疆卫视,http://home.szjim.top:4000/udp/239.77.0.75:5146
 云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3
 云南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/main.m3u8?stbid=
 云南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182259/main.m3u8?stbid=
@@ -1836,9 +1835,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 东方财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.177:5140
 东方财经,http://nas.jqcykj.com:88/shanghai/?id=dfcj
-全纪实,http://39.165.39.49:85/tsfile/live/1126_1.m3u8?key=txiptv&playlive=0&authid=0
-全纪实,http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8?channel-id=ystenlive&Contentid=2210585548805959716256407&livemode=1&stbId=4
 动漫秀场,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
@@ -1861,7 +1857,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 动漫秀场,http://www.yeqi.eu.org:4000/rtp/233.50.200.12:5140
 动漫秀场,http://demo.medrun.cn:4022/rtp/233.18.204.46:5140
 动漫秀场,http://124.112.188.154:4022/rtp/238.1.78.154:7104
-动漫秀场,http://124.112.241.143:4022/rtp/238.1.78.154:7104
 动漫秀场,http://tv.laokhome.cn:19000/rtp/232.0.0.128:1234
 动漫秀场,http://171.119.206.42:6000/rtp/226.0.2.183:9376
 动漫秀场,http://171.119.206.9:6000/rtp/226.0.2.183:9376
@@ -1961,7 +1956,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 第一财经,https://mgcn.chinacert.cftest5.cn/608780988
 第一财经,https://itv.809899.xyz/migu.php?id=dycj
-金色频道,http://139.196.151.191:2051/rtp/239.45.1.118:5140
 
 📺电视剧频道,#genre#
 东方影视,http://hlszymgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/1200/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20260630040211&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260630040211&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=70e38cd16e7f90fdbd2aadad3476e1b2&sv=10004&ct=android
@@ -2045,7 +2039,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 湖南电视剧,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8
 湖南电视剧,http://demo1.ruisilink.top:9000/rtp/239.76.252.118:9000
 安徽影视频道,http://124.112.188.154:4022/rtp/238.1.79.42:4448
-安徽影视频道,http://124.112.241.143:4022/rtp/238.1.79.42:4448
 安徽影视频道,http://nas.jqcykj.com:88/anhui?id=72
 
 🎬电影频道,#genre#
@@ -2143,7 +2136,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州文化生活,rtmp://liveshowbak2.kan0512.com/norecord/ncsztv3_sd
 苏州文化生活,http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州文化生活,rtmp://csztv.2500sz.com:1935/live/c03?zjiangsd
-苏州文化生活,http://45.192.97.170:8880/play/6970.m3u8
 苏州文化生活,http://45.192.97.170:8880/play/2278.m3u8
 苏州文化生活,rtmp://61.155.203.93/live/c03
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -2157,6 +2149,7 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州生活资讯,http://kd3.gcc125.top:6888/rtp/239.49.8.116:8000
 苏州生活资讯,http://www.yzddy.top:8800/rtp/239.49.8.116:8000
 苏州生活资讯,rtmp://csztv.2500sz.com:1935/live/c04?zjiangsd
+苏州生活资讯,http://314644.xyz:17777/rtp/239.49.8.116:8000
 苏州生活资讯,http://kouki.pro:8888/rtp/239.49.8.116:8000
 苏州生活资讯,http://z.d4p.cn:8000/rtp/239.49.8.116:8000
 苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
@@ -2254,7 +2247,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 安徽经济生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-jjshtv.m3u8
 安徽经济生活,https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
 安徽经济生活,http://124.112.188.154:4022/rtp/238.1.79.44:4464
-安徽经济生活,http://124.112.241.143:4022/rtp/238.1.79.44:4464
 安徽经济生活,http://nas.jqcykj.com:88/anhui?id=71
 山东综艺,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/iqilu-zypd
 山东综艺,http://wp.webzx.net:5050/udp/239.253.242.21:8000
@@ -2293,7 +2285,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao-588184242.ts
 河北农民,http://www.qfly9236.cn:8888/rtp/239.253.92.176:6006
 河北农民,http://kictoc.top:7000/rtp/239.254.200.23:6000
-湖北公共,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.40:9880
 湖北公共,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbgghd
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-438.m3u8
@@ -2375,8 +2366,8 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 广东体育,http://rustdesk.szsun.xyz:8088/udp/239.77.0.112:5146
 广东体育,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
 广东体育,http://www.1328099.xyz:9688/udp/239.77.0.112:5146
-广东体育,http://home.szjim.top:4000/udp/239.77.0.112:5146
 广东体育,http://61.145.188.90:50055/udp/239.77.0.112:5146
+广东体育,http://home.szjim.top:4000/udp/239.77.0.112:5146
 广东体育,http://www.3344.uk:8888/rtp/239.77.0.112:5146
 广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
 广东体育,http://www.3344.uk:8888/rtp/239.77.0.6:5146
@@ -2402,7 +2393,6 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 安徽综艺体育,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/anhui-zytytv.m3u8
 安徽综艺体育,https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
 安徽综艺体育,http://124.112.188.154:4022/rtp/238.1.79.41:4440
-安徽综艺体育,http://124.112.241.143:4022/rtp/238.1.79.41:4440
 安徽综艺体育,http://nicolethree.top:8188/rtp/238.1.79.41:4440
 安徽综艺体育,http://nas.jqcykj.com:88/anhui?id=73
 北京体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
@@ -2482,8 +2472,8 @@ JJ麻将冠军杯,https://live.iill.top/douyu/10684745
 济公,http://nas.jqcykj.com:88/yy?id=1355265814
 少年包青天,http://nas.jqcykj.com:88/yy?id=1356043677
 少年包青天,http://nas.jqcykj.com:88/yy?id=1414846486
-少年包青天,http://45.192.97.170:8880/play/1286.m3u8
 少年包青天,http://45.192.97.170:8880/play/1403.m3u8
+少年包青天,http://45.192.97.170:8880/play/1286.m3u8
 神医喜来乐,http://nas.jqcykj.com:88/yy?id=1382714119
 神探狄仁杰,http://nas.jqcykj.com:88/yy?id=38338029
 宰相刘罗锅,http://nas.jqcykj.com:88/yy?id=1382745191
@@ -2498,5 +2488,5 @@ JJ麻将冠军杯,https://live.iill.top/douyu/10684745
 武林外传,http://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
 武林外传,http://nas.jqcykj.com:88/yy?id=1355652820
 我爱我家,http://nas.jqcykj.com:88/yy?id=1382735557
-我爱我家,http://45.192.97.170:8880/play/1517.m3u8
 我爱我家,http://45.192.97.170:8880/play/1385.m3u8
+我爱我家,http://45.192.97.170:8880/play/1517.m3u8
