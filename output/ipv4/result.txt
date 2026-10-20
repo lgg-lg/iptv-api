@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-19 07:56:10,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-10-20 08:57:15,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -37,7 +37,6 @@ CCTV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv4
 CCTV-4,http://125.123.141.122:44022/rtp/233.50.201.4:5140
 CCTV-4,http://woc.iiiya.cn:18888/rtp/239.61.2.206:9224
 CCTV-4,http://182.135.66.163:1888/rtp/239.94.0.20:5140
-CCTV-4,http://183.47.2.156:16883/rtp/239.77.1.180:5146
 CCTV-4,http://121.10.7.16:4000/rtp/239.77.1.180:5146
 CCTV-4,http://171.8.84.49:8800/rtp/239.16.20.4:10040
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -78,8 +77,8 @@ CCTV-8,http://k.061899.xyz/m.php?id=cctv8&key=txiptv&playlive=1&authid=0
 CCTV-8,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv8hd
 CCTV-8,http://125.123.141.122:44022/rtp/233.50.201.199:5140
 CCTV-8,http://demo.medrun.cn:4022/rtp/233.18.204.74:5140
-CCTV-8,http://woc.iiiya.cn:18888/rtp/239.61.3.37:9740
 CCTV-8,http://115.171.216.32:4000/rtp/225.1.8.85:8000
+CCTV-8,http://woc.iiiya.cn:18888/rtp/239.61.3.37:9740
 CCTV-8,http://171.8.84.49:8800/rtp/239.16.20.8:10080
 CCTV-9,http://gfr.x3322.net:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://gfr.x3322.net:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -142,8 +141,8 @@ CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-16,http://www.hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://125.123.141.122:44022/rtp/233.50.201.63:5140
 CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
-CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-16,http://nas.lyfkai.cn:19999/rtp/239.69.1.247:11124
+CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-16,http://hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://woc.iiiya.cn:18888/rtp/239.61.4.135:1025
 CCTV-16,http://vpn.jk960.cn:8686/rtp/239.77.0.165:5146
@@ -187,9 +186,9 @@ CETV-4,http://113.58.133.109:8188/rtp/239.254.96.169:8148
 广东卫视,http://home.amucn.net:8800/rtp/239.49.8.13:9422
 广东卫视,http://115.171.216.32:4000/rtp/225.1.8.49:8048
 广东卫视,http://171.8.84.49:8800/rtp/239.16.20.98:10980
-广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=2
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=1
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=0
+广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=2
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws&line=1
 广东卫视,https://itv.809899.xyz/4k.php?id=gd4k
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -210,8 +209,8 @@ CETV-4,http://113.58.133.109:8188/rtp/239.254.96.169:8148
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1027_1.m3u8
 湖南卫视,http://demo.medrun.cn:4022/rtp/233.18.204.86:5140
 湖南卫视,http://home.amucn.net:8800/rtp/239.49.8.12:9418
-湖南卫视,http://115.171.216.32:4000/rtp/225.1.8.41:8012
 湖南卫视,http://woc.iiiya.cn:18888/rtp/239.61.2.31:8180
+湖南卫视,http://115.171.216.32:4000/rtp/225.1.8.41:8012
 湖南卫视,http://171.8.84.49:8800/rtp/239.16.20.72:10720
 湖南卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.88:5146
 湖南卫视,https://itv.809899.xyz/4k.php?id=hn4k
@@ -230,8 +229,8 @@ CETV-4,http://113.58.133.109:8188/rtp/239.254.96.169:8148
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbwshd
 湖北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.115:8664
-湖北卫视,http://115.171.216.32:4000/rtp/225.1.8.47:8044
 湖北卫视,http://115.171.216.32:4000/udp/225.1.8.47:8044
+湖北卫视,http://115.171.216.32:4000/rtp/225.1.8.47:8044
 湖北卫视,http://home.amucn.net:8800/rtp/239.49.8.8:9632
 湖北卫视,http://171.8.84.49:8800/rtp/239.16.20.87:10870
 湖北卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.95:5146
@@ -350,9 +349,9 @@ CETV-4,http://113.58.133.109:8188/rtp/239.254.96.169:8148
 辽宁卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=lnwshd
 辽宁卫视,http://demo.medrun.cn:4022/rtp/233.18.204.96:5140
 辽宁卫视,http://1.192.242.239:8188/rtp/239.16.20.95:10950
-辽宁卫视,http://115.171.216.32:4000/rtp/225.1.8.51:8056
 辽宁卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.103:5146
 辽宁卫视,http://115.171.216.32:4000/udp/225.1.8.51:8056
+辽宁卫视,http://115.171.216.32:4000/rtp/225.1.8.51:8056
 辽宁卫视,http://171.8.84.49:8800/rtp/239.16.20.95:10950
 内蒙古卫视,http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://k.061899.xyz/m.php?id=nmgws&key=txiptv&playlive=1&authid=0
@@ -404,9 +403,9 @@ CETV-4,http://113.58.133.109:8188/rtp/239.254.96.169:8148
 深圳卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.189:5146
 深圳卫视,http://115.171.216.32:4000/udp/225.1.8.43:8020
 深圳卫视,http://171.8.84.49:8800/rtp/239.16.20.77:10770
+深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=0
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=1
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=2
-深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=0
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws&line=2
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws&line=1
 深圳卫视,https://itv.809899.xyz/4k.php?id=sz4k
@@ -443,11 +442,15 @@ CETV-4,http://113.58.133.109:8188/rtp/239.254.96.169:8148
 上海新闻综合,http://k.061899.xyz/m.php?id=shxw&key=txiptv&playlive=1&authid=0
 上海新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
+全纪实,http://39.165.39.49:85/tsfile/live/1126_1.m3u8?key=txiptv&playlive=0&authid=0
+全纪实,http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 动漫秀场,http://125.123.141.122:44022/rtp/233.50.201.184:5140
 动漫秀场,http://demo.medrun.cn:4022/rtp/233.18.204.46:5140
 动漫秀场,http://171.8.84.49:8800/rtp/239.16.20.40:10400
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://171.8.84.49:8800/rtp/239.16.20.114:11140
+金色频道,http://139.196.151.191:2051/rtp/239.45.1.118:5140
 
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
@@ -500,10 +503,11 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州生活资讯,http://kd3.gcc125.top:6888/rtp/239.49.8.116:8000
 苏州生活资讯,http://www.yzddy.top:8800/rtp/239.49.8.116:8000
 苏州生活资讯,rtmp://csztv.2500sz.com:1935/live/c04?zjiangsd
+苏州生活资讯,http://314644.xyz:17777/rtp/239.49.8.116:8000
 苏州生活资讯,http://kouki.pro:8888/rtp/239.49.8.116:8000
 苏州生活资讯,http://z.d4p.cn:8000/rtp/239.49.8.116:8000
-苏州生活资讯,http://81.69.15.31:8880/play/1567.m3u8
 苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
+苏州生活资讯,http://81.69.15.31:8880/play/1567.m3u8
 苏州生活资讯,rtmp://61.155.203.93/live/c04
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
