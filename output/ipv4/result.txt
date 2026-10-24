@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-24 08:16:24,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-10-25 07:58:26,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -53,7 +53,6 @@ CCTV-5+,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5plus_2pd
 CCTV-5+,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv5jhd
 CCTV-5+,http://nas.lyfkai.cn:19999/rtp/239.254.96.234:9484
 CCTV-5+,http://171.8.84.49:8800/rtp/239.16.20.5:10050
-CCTV-5+,http://vpn.jk960.cn:8686/rtp/239.77.1.31:5146
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://k.061899.xyz/m.php?id=cctv6&key=txiptv&playlive=1&authid=0
@@ -72,7 +71,6 @@ CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&a
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://k.061899.xyz/m.php?id=cctv8&key=txiptv&playlive=1&authid=0
 CCTV-8,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv8hd
-CCTV-8,http://125.123.141.122:44022/rtp/233.50.201.199:5140
 CCTV-8,http://demo.medrun.cn:4022/rtp/233.18.204.74:5140
 CCTV-8,http://woc.iiiya.cn:18888/rtp/239.61.3.37:9740
 CCTV-8,http://171.8.84.49:8800/rtp/239.16.20.8:10080
@@ -103,7 +101,6 @@ CCTV-11,http://171.8.84.49:8800/rtp/239.16.20.11:10110
 CCTV-12,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv12hd
 CCTV-12,http://www.nlmxy.top:4000/rtp/233.50.201.123:5140
 CCTV-12,http://171.8.84.49:8800/rtp/239.16.20.12:10120
-CCTV-12,http://vpn.jk960.cn:8686/rtp/239.77.1.109:5146
 CCTV-12,http://k.061899.xyz/m.php?id=cctv12
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -133,8 +130,8 @@ CCTV-16,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv16hd
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-16,http://www.hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://125.123.141.122:44022/rtp/233.50.201.63:5140
-CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
+CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-16,http://hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://nas.lyfkai.cn:19999/rtp/239.69.1.247:11124
 CCTV-16,http://woc.iiiya.cn:18888/rtp/239.61.4.135:1025
@@ -160,7 +157,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 茶频道,http://cloud.sunrisecom.wang:8888/rtp/239.45.3.18:5140
 茶频道,http://liuwenxiaokevin.top:14044/rtp/239.45.3.18:5140
 茶频道,http://cloud.sunrisecom.cn:8888/rtp/239.45.3.18:5140
-相声小品,http://live.nctv.top/douyu1.php?id=9286868
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -170,8 +166,8 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 广东卫视,http://125.123.141.122:44022/rtp/233.50.202.101:5140
 广东卫视,http://www.liangcl.top:8686/rtp/233.50.201.102:5140
 广东卫视,http://demo.medrun.cn:4022/rtp/233.18.204.88:5140
-广东卫视,http://home.amucn.net:8800/rtp/239.49.8.13:9422
 广东卫视,http://61.145.188.90:50055/udp/239.77.0.84:5146
+广东卫视,http://home.amucn.net:8800/rtp/239.49.8.13:9422
 广东卫视,http://171.8.84.49:8800/rtp/239.16.20.98:10980
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=1
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=2
@@ -197,7 +193,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 湖南卫视,http://home.amucn.net:8800/rtp/239.49.8.12:9418
 湖南卫视,http://woc.iiiya.cn:18888/rtp/239.61.2.31:8180
 湖南卫视,http://171.8.84.49:8800/rtp/239.16.20.72:10720
-湖南卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.88:5146
 湖南卫视,https://itv.809899.xyz/4k.php?id=hn4k
 湖南卫视,http://k.061899.xyz/m.php?id=hunws
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -215,7 +210,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 湖北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.115:8664
 湖北卫视,http://home.amucn.net:8800/rtp/239.49.8.8:9632
 湖北卫视,http://171.8.84.49:8800/rtp/239.16.20.87:10870
-湖北卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.95:5146
 黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hljwshd
 黑龙江卫视,http://hiliu.myds.me:18088/rtp/239.254.96.138:8902
@@ -248,7 +242,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 东南卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=dnwshd
 东南卫视,http://nas.lyfkai.cn:19999/rtp/239.69.1.108:10286
 东南卫视,http://171.8.84.49:8800/rtp/239.16.20.82:10820
-东南卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.104:5146
 甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
 甘肃卫视,http://125.123.141.122:44022/rtp/233.50.200.163:5140
@@ -278,7 +271,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 河北卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hebws
 河北卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.113:9616
 河北卫视,http://171.8.84.49:8800/rtp/239.16.20.88:10880
-河北卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.148:5146
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://k.061899.xyz/m.php?id=hnws&key=txiptv&playlive=1&authid=0
@@ -306,7 +298,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 江苏卫视,http://demo.medrun.cn:4022/rtp/233.18.204.85:5140
 江苏卫视,http://home.amucn.net:8800/rtp/239.49.8.16:9602
 江苏卫视,http://171.8.84.49:8800/rtp/239.16.20.74:10740
-江苏卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.18:5146
 江苏卫视,https://itv.809899.xyz/4k.php?id=js4k
 江西卫视,http://gfr.x3322.net:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://k.061899.xyz/m.php?id=jxws&key=txiptv&playlive=1&authid=0
@@ -320,7 +311,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 辽宁卫视,http://demo.medrun.cn:4022/rtp/233.18.204.96:5140
 辽宁卫视,http://1.192.242.239:8188/rtp/239.16.20.95:10950
 辽宁卫视,http://171.8.84.49:8800/rtp/239.16.20.95:10950
-辽宁卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.103:5146
 内蒙古卫视,http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://k.061899.xyz/m.php?id=nmgws&key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://125.123.141.122:44022/rtp/233.50.201.148:5140
@@ -336,7 +326,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 青海卫视,http://home.szjim.top:4000/udp/239.253.43.125:5146
 青海卫视,http://1.192.242.239:8188/rtp/239.16.20.101:11010
 青海卫视,http://171.8.84.49:8800/rtp/239.16.20.101:11010
-青海卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.70:5146
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=sdwdhd
@@ -355,8 +344,8 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 陕西卫视,http://171.8.84.49:8800/rtp/239.16.20.83:10830
 四川卫视,http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=scwshd
-四川卫视,http://home.szjim.top:4000/udp/239.77.0.159:5146
 四川卫视,http://1.192.242.239:8188/rtp/239.16.20.86:10860
+四川卫视,http://home.szjim.top:4000/udp/239.77.0.159:5146
 四川卫视,http://171.8.84.49:8800/rtp/239.16.20.86:10860
 四川卫视,https://itv.809899.xyz/4k.php?id=sc4k
 四川卫视,http://k.061899.xyz/m.php?id=scws
@@ -366,10 +355,9 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 深圳卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.137:8896
 深圳卫视,http://home.amucn.net:8800/rtp/239.49.8.15:9430
 深圳卫视,http://171.8.84.49:8800/rtp/239.16.20.77:10770
-深圳卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.189:5146
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=1
-深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=0
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=2
+深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=0
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws&line=1
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws&line=2
 深圳卫视,https://itv.809899.xyz/4k.php?id=sz4k
@@ -389,8 +377,8 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 西藏卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=xzws&zy.m3u8
 西藏卫视,http://k.061899.xyz/m.php?id=xzws&key=txiptv&playlive=1&authid=0
 西藏卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=xzws
-西藏卫视,http://home.szjim.top:4000/udp/239.77.0.74:5146
 西藏卫视,http://woc.iiiya.cn:18888/rtp/239.61.2.229:9362
+西藏卫视,http://home.szjim.top:4000/udp/239.77.0.74:5146
 新疆卫视,http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://k.061899.xyz/m.php?id=xjws&key=txiptv&playlive=1&authid=0
 新疆卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=xjws
@@ -407,13 +395,13 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
 全纪实,http://39.165.39.49:85/tsfile/live/1126_1.m3u8?key=txiptv&playlive=0&authid=0
 全纪实,http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
+全纪实,http://139.196.151.191:2051/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 动漫秀场,http://125.123.141.122:44022/rtp/233.50.201.184:5140
 动漫秀场,http://demo.medrun.cn:4022/rtp/233.18.204.46:5140
 动漫秀场,http://171.8.84.49:8800/rtp/239.16.20.40:10400
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://171.8.84.49:8800/rtp/239.16.20.114:11140
-金色频道,http://139.196.151.191:2051/rtp/239.45.1.118:5140
 
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
@@ -435,6 +423,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 峨眉电影,http://nas.201606.xyz:4022/udp/239.11.0.11:5140
 经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
 
@@ -464,11 +453,10 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 苏州生活资讯,http://kd3.gcc125.top:6888/rtp/239.49.8.116:8000
 苏州生活资讯,http://www.yzddy.top:8800/rtp/239.49.8.116:8000
 苏州生活资讯,rtmp://csztv.2500sz.com:1935/live/c04?zjiangsd
-苏州生活资讯,http://314644.xyz:17777/rtp/239.49.8.116:8000
 苏州生活资讯,http://kouki.pro:8888/rtp/239.49.8.116:8000
 苏州生活资讯,http://z.d4p.cn:8000/rtp/239.49.8.116:8000
-苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
 苏州生活资讯,http://81.69.15.31:8880/play/1567.m3u8
+苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
 苏州生活资讯,rtmp://61.155.203.93/live/c04
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -497,11 +485,9 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 浙江生活,http://125.123.141.122:44022/rtp/233.50.201.133:5140
 浙江民生休闲,http://125.123.141.122:44022/rtp/233.50.201.136:5140
 山东综艺,http://wp.webzx.net:5050/udp/239.253.242.21:8000
-湖北公共,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.40:9880
 湖北公共,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbgghd
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbls
-湖北生活,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.205:10872
 湖北生活,http://www.hiliu.myds.me:18088/rtp/239.69.1.205:10872
 湖北生活,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbsh
 海南公共,http://gfr.x3322.net:9901/tsfile/live/1022_1.m3u8
@@ -515,8 +501,8 @@ CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&
 CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
 CCTV-5+,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv5jhd
 广东体育,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
-广东体育,http://home.szjim.top:4000/udp/239.77.0.112:5146
 广东体育,http://61.145.188.90:50055/udp/239.77.0.112:5146
+广东体育,http://home.szjim.top:4000/udp/239.77.0.112:5146
 广东体育,http://k.061899.xyz/m.php?id=gdty
 劲爆体育,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=shjs
 劲爆体育,http://k.061899.xyz/m.php?id=jbty
