@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-29 09:31:51,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-10-30 09:33:40,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -511,7 +511,7 @@ CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
 CCTV-16,http://125.123.141.122:44022/rtp/233.50.201.63:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.200.112:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.201.192:5140
-CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
+CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-17,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000038/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000038&livemode=1&stbId=3
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8?stbid=
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024151/main.m3u8?stbid=
@@ -748,7 +748,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 求索记录,http://clnas0001.top:9981/stream/channelid/729762286?profile=pass
 求索记录,http://clnas0001.top:9981/stream/channelid/729762287?profile=pass
 求索记录,http://clnas0001.top:9981/stream/channelid/729762288?profile=pass
-相声小品,http://live.nctv.top/douyu1.php?id=9286868
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -1563,7 +1562,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 四川卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.70:5140
 四川卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.61:5140
 四川卫视,https://live.chinacert.cftest5.cn/zgst/?id=sichuan
-四川卫视,http://home.szjim.top:4000/udp/239.77.0.159:5146
+四川卫视,http://1.192.242.239:8188/rtp/239.16.20.86:10860
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/2/index.m3u8?fmt=ts2hls
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/01.m3u8?fmt=ts2hls
@@ -1827,9 +1826,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 东方财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.177:5140
 东方财经,http://nas.jqcykj.com:88/shanghai/?id=dfcj
-全纪实,http://39.165.39.49:85/tsfile/live/1126_1.m3u8?key=txiptv&playlive=0&authid=0
-全纪实,http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8?channel-id=ystenlive&Contentid=2210585548805959716256407&livemode=1&stbId=4
 动漫秀场,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
@@ -2200,7 +2196,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 杭州生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-life.m3u8
 杭州明珠,http://www.www.www.www.www.www.www.www.kod.nlmxy.cn:4000/udp/233.50.201.174:5140
 杭州明珠,http://eversouthhangzhou.7766.org:8188/rtp/233.50.201.174:5140
-杭州明珠,http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.210:5140
 杭州明珠,http://www.liangcl.top:8686/rtp/233.50.201.174:5140
 杭州明珠,http://www.nlmxy.top:4000/rtp/233.50.201.174:5140
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
