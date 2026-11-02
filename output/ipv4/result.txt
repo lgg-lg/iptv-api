@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-01 08:46:00,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-11-02 09:14:51,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -120,8 +120,8 @@ CCTV-16,http://www.hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://125.123.141.122:44022/rtp/233.50.201.63:5140
 CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
 CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
-CCTV-16,http://hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://nas.lyfkai.cn:19999/rtp/239.69.1.247:11124
+CCTV-16,http://hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://woc.iiiya.cn:18888/rtp/239.61.4.135:1025
 CCTV-16,http://k.061899.xyz/m.php?id=cctv16
 CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -144,6 +144,7 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 茶频道,http://cloud.sunrisecom.wang:8888/rtp/239.45.3.18:5140
 茶频道,http://liuwenxiaokevin.top:14044/rtp/239.45.3.18:5140
 茶频道,http://cloud.sunrisecom.cn:8888/rtp/239.45.3.18:5140
+相声小品,http://live.nctv.top/douyu1.php?id=9286868
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -156,8 +157,8 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 广东卫视,http://61.145.188.90:50055/udp/239.77.0.84:5146
 广东卫视,http://home.amucn.net:8800/rtp/239.49.8.13:9422
 广东卫视,http://171.8.84.49:8800/rtp/239.16.20.98:10980
-广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=1
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=0
+广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=1
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdws4k&line=2
 广东卫视,https://itv.809899.xyz/4k.php?id=gd4k
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -172,9 +173,8 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hnwshd
-湖南卫视,http://125.123.141.122:44022/rtp/233.50.201.52:5140
-湖南卫视,http://hiliu.myds.me:18088/rtp/239.254.96.139:8908
 湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
+湖南卫视,http://hiliu.myds.me:18088/rtp/239.254.96.139:8908
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1027_1.m3u8
 湖南卫视,http://demo.medrun.cn:4022/rtp/233.18.204.86:5140
 湖南卫视,http://home.amucn.net:8800/rtp/239.49.8.12:9418
@@ -338,9 +338,9 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 深圳卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.137:8896
 深圳卫视,http://home.amucn.net:8800/rtp/239.49.8.15:9430
 深圳卫视,http://171.8.84.49:8800/rtp/239.16.20.77:10770
+深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=0
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=2
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=1
-深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws4k&line=0
 深圳卫视,http://nn.7x9d.cn/91tv1.php?e=szws&line=2
 深圳卫视,https://itv.809899.xyz/4k.php?id=sz4k
 深圳卫视,http://k.061899.xyz/m.php?id=szws
@@ -457,10 +457,10 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 浙江生活,http://125.123.141.122:44022/rtp/233.50.201.133:5140
 浙江民生休闲,http://125.123.141.122:44022/rtp/233.50.201.136:5140
 山东综艺,http://wp.webzx.net:5050/udp/239.253.242.21:8000
+湖北公共,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.40:9880
 湖北公共,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbgghd
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbls
-湖北生活,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.205:10872
 湖北生活,http://www.hiliu.myds.me:18088/rtp/239.69.1.205:10872
 湖北生活,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbsh
 海南公共,http://gfr.x3322.net:9901/tsfile/live/1022_1.m3u8

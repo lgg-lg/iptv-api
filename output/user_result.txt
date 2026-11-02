@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-01 08:46:00,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-11-02 09:14:51,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -748,6 +748,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 求索记录,http://clnas0001.top:9981/stream/channelid/729762286?profile=pass
 求索记录,http://clnas0001.top:9981/stream/channelid/729762287?profile=pass
 求索记录,http://clnas0001.top:9981/stream/channelid/729762288?profile=pass
+相声小品,http://live.nctv.top/douyu1.php?id=9286868
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -837,12 +838,12 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 湖南卫视,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.168:5540
 湖南卫视,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.136:5540
 湖南卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hnwshd
-湖南卫视,http://125.123.141.122:44022/rtp/233.50.201.52:5140
 湖南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.190:5140
 湖南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.103:5140
-湖南卫视,http://hiliu.myds.me:18088/rtp/239.254.96.139:8908
 湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
+湖南卫视,http://hiliu.myds.me:18088/rtp/239.254.96.139:8908
 湖南卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.5:5146
+湖南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.69:5140
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2255,11 +2256,11 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao-588184242.ts
 河北农民,http://www.qfly9236.cn:8888/rtp/239.253.92.176:6006
 河北农民,http://kictoc.top:7000/rtp/239.254.200.23:6000
+湖北公共,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.40:9880
 湖北公共,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbgghd
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-438.m3u8
 湖北垄上,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbls
-湖北生活,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.205:10872
 湖北生活,http://www.hiliu.myds.me:18088/rtp/239.69.1.205:10872
 湖北生活,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbsh
 福建综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248990102917120.m3u8
