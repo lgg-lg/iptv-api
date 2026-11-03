@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-02 09:14:51,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-11-03 11:17:24,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -774,13 +774,13 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 广东卫视,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.138:5540
 广东卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=gdwshd
 广东卫视,http://125.123.141.122:44022/rtp/233.50.202.101:5140
-广东卫视,http://www.liangcl.top:8686/rtp/233.50.201.102:5140
 广东卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.19:5146
 广东卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.126:5140
 广东卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.149:5140
 广东卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.102:5140
 广东卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.187:5140
 广东卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.61:5140
+广东卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.56:5140
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hkstv-live.m3u8
 香港卫视,http://nas.jqcykj.com:88/xianggang/
@@ -840,8 +840,8 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 湖南卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hnwshd
 湖南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.190:5140
 湖南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.103:5140
-湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
 湖南卫视,http://hiliu.myds.me:18088/rtp/239.254.96.139:8908
+湖南卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.139:8908
 湖南卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.5:5146
 湖南卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.69:5140
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
@@ -869,8 +869,8 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 北京卫视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.209:5140
 北京卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=bjwshd
 北京卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.179:5140
-北京卫视,http://hiliu.myds.me:18088/rtp/239.254.96.141:8920
 北京卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.141:8920
+北京卫视,http://hiliu.myds.me:18088/rtp/239.254.96.141:8920
 北京卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.4:5146
 北京卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.68:5140
 北京卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.40:5140
@@ -1683,7 +1683,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 西藏卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=xzws
 西藏卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.70:5140
 西藏卫视,http://tv.laokhome.cn:19000/rtp/232.0.0.114:1234
-西藏卫视,http://woc.iiiya.cn:18888/rtp/239.61.2.229:9362
+西藏卫视,http://home.szjim.top:4000/udp/239.77.0.74:5146
 新疆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182275&livemode=1&stbId=4
 新疆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
 新疆卫视,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xinjiangstv/1.m3u8?channel-id=ystenlive&Contentid=xinjiangstv&livemode=1
@@ -1942,6 +1942,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 第一财经,https://mgcn.chinacert.cftest5.cn/608780988
 第一财经,https://itv.809899.xyz/migu.php?id=dycj
+金色频道,http://139.196.151.191/rtp/239.45.1.118:5140
 
 📺电视剧频道,#genre#
 东方影视,http://hlszymgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/1200/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20260630040211&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260630040211&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=70e38cd16e7f90fdbd2aadad3476e1b2&sv=10004&ct=android
@@ -2127,8 +2128,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州生活资讯,rtmp://csztv.2500sz.com:1935/live/c04?zjiangsd
 苏州生活资讯,http://kouki.pro:8888/rtp/239.49.8.116:8000
 苏州生活资讯,http://z.d4p.cn:8000/rtp/239.49.8.116:8000
-苏州生活资讯,http://81.69.15.31:8880/play/1567.m3u8
 苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
+苏州生活资讯,http://81.69.15.31:8880/play/1567.m3u8
 苏州生活资讯,rtmp://61.155.203.93/live/c04
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -2195,7 +2196,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 杭州生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-life.m3u8
 杭州明珠,http://www.www.www.www.www.www.www.www.kod.nlmxy.cn:4000/udp/233.50.201.174:5140
 杭州明珠,http://eversouthhangzhou.7766.org:8188/rtp/233.50.201.174:5140
-杭州明珠,http://www.liangcl.top:8686/rtp/233.50.201.174:5140
 杭州明珠,http://www.nlmxy.top:4000/rtp/233.50.201.174:5140
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江生活,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229115/10000100000000060000000004799165_0.smil
@@ -2261,6 +2261,7 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-438.m3u8
 湖北垄上,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbls
+湖北生活,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.205:10872
 湖北生活,http://www.hiliu.myds.me:18088/rtp/239.69.1.205:10872
 湖北生活,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbsh
 福建综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248990102917120.m3u8
