@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-05 10:01:42,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-11-06 10:02:56,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -511,7 +511,7 @@ CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
 CCTV-16,http://125.123.141.122:44022/rtp/233.50.201.63:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.200.112:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.201.192:5140
-CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
+CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
 CCTV-17,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000038/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000038&livemode=1&stbId=3
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8?stbid=
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024151/main.m3u8?stbid=
@@ -743,7 +743,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 老故事,https://mgcn.chinacert.cftest5.cn/810326846
 老故事,https://itv.809899.xyz/migu.php?id=lgs
 茶频道,http://cloud.sunrisecom.wang:8888/rtp/239.45.3.18:5140
-茶频道,http://liuwenxiaokevin.top:14044/rtp/239.45.3.18:5140
 茶频道,http://cloud.sunrisecom.cn:8888/rtp/239.45.3.18:5140
 求索记录,http://clnas0001.top:9981/stream/channelid/729762286?profile=pass
 求索记录,http://clnas0001.top:9981/stream/channelid/729762287?profile=pass
@@ -809,11 +808,11 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
-浙江卫视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.229:5140
 浙江卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zjwshd
 浙江卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.33:5146
 浙江卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.145:5140
 浙江卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.231:5140
+浙江卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.100:5140
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -866,7 +865,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 北京卫视,http://yc.myds.me:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
 北京卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
 北京卫视,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.137:5540
-北京卫视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.209:5140
 北京卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=bjwshd
 北京卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.179:5140
 北京卫视,http://hiliu.myds.me:18088/rtp/239.254.96.141:8920
@@ -874,6 +872,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 北京卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.4:5146
 北京卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.68:5140
 北京卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.40:5140
+北京卫视,https://live.chinacert.cftest5.cn/zgst/?id=beijing
 湖北卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047447/main.m3u8?stbid=
 湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?&HlsSubType=&encrypt=
 湖北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
@@ -954,7 +953,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 安徽卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226655/1.m3u8
 安徽卫视,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.38:5540
 安徽卫视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
-安徽卫视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.93:5140
 安徽卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=ahwshd
 安徽卫视,http://125.123.141.122:44022/rtp/233.50.201.62:5140
 安徽卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.92:5146
@@ -964,6 +962,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 安徽卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.62:5140
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/?id=anhui
 安徽卫视,http://tv.laokhome.cn:19000/rtp/232.0.0.141:1234
+安徽卫视,http://171.8.84.49:8800/rtp/239.16.20.75:10750
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/01.m3u8?fmt=ts2hls
 重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1018,12 +1017,12 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方卫视,http://yc.myds.me:35455/itv/5000000004000014098.m3u8?cdn=bestzb
 东方卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
 东方卫视,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.125:5540
-东方卫视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.224:5140
 东方卫视,http://bp-livety4kbz.bestv.cn/live/dfws4k_4k265p.m3u8
 东方卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=dfwshd
 东方卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.218:5146
 东方卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.146:5140
 东方卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.125:5140
+东方卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.142:8926
 东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182255/main.m3u8?stbid=
 东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040459/main.m3u8?stbid=
 东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/01.m3u8?fmt=ts2hls
@@ -1443,7 +1442,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 青海卫视,http://home.szjim.top:4000/udp/239.253.43.125:5146
 青海卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.65:5140
 青海卫视,https://live.chinacert.cftest5.cn/mg/?id=947472506
-青海卫视,http://1.192.242.239:8188/rtp/239.16.20.101:11010
+青海卫视,http://tv.laokhome.cn:19000/rtp/232.0.0.101:1234
 山东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182570/main.m3u8?stbid=
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/2/index.m3u8?fmt=ts2hls
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
@@ -1563,7 +1562,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 四川卫视,http://www.yeqi.eu.org:4000/rtp/233.50.200.70:5140
 四川卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.61:5140
 四川卫视,https://live.chinacert.cftest5.cn/zgst/?id=sichuan
-四川卫视,http://home.szjim.top:4000/udp/239.77.0.159:5146
+四川卫视,http://1.192.242.239:8188/rtp/239.16.20.86:10860
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/2/index.m3u8?fmt=ts2hls
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/01.m3u8?fmt=ts2hls
