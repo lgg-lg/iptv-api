@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-08 09:05:12,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-11-09 09:25:47,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -511,7 +511,7 @@ CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
 CCTV-16,http://125.123.141.122:44022/rtp/233.50.201.63:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.200.112:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.201.192:5140
-CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
+CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-17,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000038/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000038&livemode=1&stbId=3
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8?stbid=
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024151/main.m3u8?stbid=
@@ -1827,7 +1827,6 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 东方财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.177:5140
 东方财经,http://nas.jqcykj.com:88/shanghai/?id=dfcj
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8?channel-id=ystenlive&Contentid=2210585548805959716256407&livemode=1&stbId=4
 动漫秀场,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
 动漫秀场,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229236/72486907.smil
@@ -2112,6 +2111,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州文化生活,rtmp://liveshowbak2.kan0512.com/norecord/ncsztv3_sd
 苏州文化生活,http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州文化生活,rtmp://csztv.2500sz.com:1935/live/c03?zjiangsd
+苏州文化生活,http://45.192.97.170:8880/play/6956.m3u8
+苏州文化生活,http://45.192.97.170:8880/play/6970.m3u8
 苏州文化生活,http://45.192.97.170:8880/play/2278.m3u8
 苏州文化生活,rtmp://61.155.203.93/live/c03
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -2260,7 +2261,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-438.m3u8
 湖北垄上,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbls
-湖北生活,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.205:10872
 湖北生活,http://www.hiliu.myds.me:18088/rtp/239.69.1.205:10872
 湖北生活,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbsh
 福建综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248990102917120.m3u8
@@ -2337,8 +2337,8 @@ CCTV-5+,http://ha.m-too.top:8333/rtp/239.77.0.87:5146
 广东体育,http://rustdesk.szsun.xyz:8088/udp/239.77.0.112:5146
 广东体育,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
 广东体育,http://www.1328099.xyz:9688/udp/239.77.0.112:5146
-广东体育,http://61.145.188.90:50055/udp/239.77.0.112:5146
 广东体育,http://home.szjim.top:4000/udp/239.77.0.112:5146
+广东体育,http://61.145.188.90:50055/udp/239.77.0.112:5146
 广东体育,http://www.3344.uk:8888/rtp/239.77.0.112:5146
 广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
 广东体育,http://www.3344.uk:8888/rtp/239.77.0.6:5146
