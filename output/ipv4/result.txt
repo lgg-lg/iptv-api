@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-13 10:23:19,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-11-14 10:02:21,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -109,7 +109,6 @@ CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://k.061899.xyz/m.php?id=cctv15&key=txiptv&playlive=1&authid=0
 CCTV-15,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv14
-CCTV-15,http://1.192.242.239:8188/rtp/239.16.20.15:10150
 CCTV-15,http://woc.iiiya.cn:18888/rtp/239.61.2.25:8144
 CCTV-15,http://171.8.84.49:8800/rtp/239.16.20.15:10150
 CCTV-16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -142,7 +141,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 茶频道,http://cloud.sunrisecom.wang:8888/rtp/239.45.3.18:5140
 茶频道,http://liuwenxiaokevin.top:14044/rtp/239.45.3.18:5140
 茶频道,http://cloud.sunrisecom.cn:8888/rtp/239.45.3.18:5140
-相声小品,http://live.nctv.top/douyu1.php?id=9286868
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -362,6 +360,7 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 动漫秀场,http://171.8.84.49:8800/rtp/239.16.20.40:10400
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://171.8.84.49:8800/rtp/239.16.20.114:11140
+金色频道,http://139.196.151.191/rtp/239.45.1.118:5140
 
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
@@ -397,8 +396,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州文化生活,rtmp://liveshowbak2.kan0512.com/norecord/ncsztv3_sd
 苏州文化生活,http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州文化生活,rtmp://csztv.2500sz.com:1935/live/c03?zjiangsd
-苏州文化生活,http://45.192.97.170:8880/play/6956.m3u8
 苏州文化生活,http://45.192.97.170:8880/play/6970.m3u8
+苏州文化生活,http://45.192.97.170:8880/play/6956.m3u8
 苏州文化生活,http://45.192.97.170:8880/play/2278.m3u8
 苏州文化生活,rtmp://61.155.203.93/live/c03
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -441,7 +440,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 浙江生活,http://125.123.141.122:44022/rtp/233.50.201.133:5140
 浙江民生休闲,http://125.123.141.122:44022/rtp/233.50.201.136:5140
 山东综艺,http://wp.webzx.net:5050/udp/239.253.242.21:8000
-湖北公共,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.40:9880
 湖北公共,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbgghd
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbls

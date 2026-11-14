@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lgg-lg/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-13 10:23:19
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-14 10:02:21
 http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -216,8 +216,6 @@ http://k.061899.xyz/m.php?id=cctv15&key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://1.192.242.239:8188/rtp/239.16.20.15:10150
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://woc.iiiya.cn:18888/rtp/239.61.2.25:8144
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://171.8.84.49:8800/rtp/239.16.20.15:10150
@@ -277,8 +275,6 @@ http://cloud.sunrisecom.wang:8888/rtp/239.45.3.18:5140
 http://liuwenxiaokevin.top:14044/rtp/239.45.3.18:5140
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/茶频道.png" group-title="💰央视付费频道",茶频道
 http://cloud.sunrisecom.cn:8888/rtp/239.45.3.18:5140
-#EXTINF:-1 tvg-name="相声小品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/相声小品.png" group-title="💰央视付费频道",相声小品
-http://live.nctv.top/douyu1.php?id=9286868
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -709,6 +705,8 @@ http://171.8.84.49:8800/rtp/239.16.20.40:10400
 http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://171.8.84.49:8800/rtp/239.16.20.114:11140
+#EXTINF:-1 tvg-name="金色频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金色频道.png" group-title="☘️上海频道",金色频道
+http://139.196.151.191/rtp/239.45.1.118:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="📺电视剧频道",东方影视
 http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="📺电视剧频道",欢笑剧场
@@ -768,9 +766,9 @@ http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="📍其他地方",苏州文化生活
 rtmp://csztv.2500sz.com:1935/live/c03?zjiangsd
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="📍其他地方",苏州文化生活
-http://45.192.97.170:8880/play/6956.m3u8
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="📍其他地方",苏州文化生活
 http://45.192.97.170:8880/play/6970.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="📍其他地方",苏州文化生活
+http://45.192.97.170:8880/play/6956.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="📍其他地方",苏州文化生活
 http://45.192.97.170:8880/play/2278.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="📍其他地方",苏州文化生活
@@ -855,8 +853,6 @@ http://125.123.141.122:44022/rtp/233.50.201.133:5140
 http://125.123.141.122:44022/rtp/233.50.201.136:5140
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东综艺.png" group-title="📍其他地方",山东综艺
 http://wp.webzx.net:5050/udp/239.253.242.21:8000
-#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北公共.png" group-title="📍其他地方",湖北公共
-http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.40:9880
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北公共.png" group-title="📍其他地方",湖北公共
 https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbgghd
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北公共.png" group-title="📍其他地方",湖北公共
