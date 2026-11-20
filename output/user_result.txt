@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-19 11:08:36,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-11-20 10:57:44,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -510,8 +510,8 @@ CCTV-16,http://www.hiliu.myds.me:18088/rtp/239.69.1.247:11124
 CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.200.112:5140
 CCTV-16,http://www.yeqi.eu.org:4000/rtp/233.50.201.192:5140
+CCTV-16,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
-CCTV-16,http://nas.lyfkai.cn:19999/rtp/239.69.1.247:11124
 CCTV-17,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000038/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000038&livemode=1&stbId=3
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8?stbid=
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024151/main.m3u8?stbid=
@@ -1683,7 +1683,7 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 西藏卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=xzws
 西藏卫视,http://www.yeqi.eu.org:4000/rtp/233.50.201.70:5140
 西藏卫视,http://tv.laokhome.cn:19000/rtp/232.0.0.114:1234
-西藏卫视,http://woc.iiiya.cn:18888/rtp/239.61.2.229:9362
+西藏卫视,http://home.szjim.top:4000/udp/239.77.0.74:5146
 新疆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182275&livemode=1&stbId=4
 新疆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
 新疆卫视,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xinjiangstv/1.m3u8?channel-id=ystenlive&Contentid=xinjiangstv&livemode=1
@@ -2125,6 +2125,7 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州生活资讯,http://kd3.gcc125.top:6888/rtp/239.49.8.116:8000
 苏州生活资讯,http://www.yzddy.top:8800/rtp/239.49.8.116:8000
 苏州生活资讯,rtmp://csztv.2500sz.com:1935/live/c04?zjiangsd
+苏州生活资讯,http://314644.xyz:17777/rtp/239.49.8.116:8000
 苏州生活资讯,http://kouki.pro:8888/rtp/239.49.8.116:8000
 苏州生活资讯,http://z.d4p.cn:8000/rtp/239.49.8.116:8000
 苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
@@ -2194,7 +2195,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 杭州综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-general.m3u8
 杭州生活,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hangzhou-life.m3u8
 杭州明珠,http://www.www.www.www.www.www.www.www.kod.nlmxy.cn:4000/udp/233.50.201.174:5140
-杭州明珠,http://eversouthhangzhou.7766.org:8188/rtp/233.50.201.174:5140
 杭州明珠,http://www.nlmxy.top:4000/rtp/233.50.201.174:5140
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江生活,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229115/10000100000000060000000004799165_0.smil
@@ -2259,7 +2259,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880
 湖北垄上,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/hbtv-438.m3u8
 湖北垄上,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbls
-湖北生活,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.205:10872
 湖北生活,http://www.hiliu.myds.me:18088/rtp/239.69.1.205:10872
 湖北生活,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hbsh
 福建综合,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/fjtv-province-665248990102917120.m3u8
