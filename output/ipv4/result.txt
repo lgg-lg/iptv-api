@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-23 10:09:25,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-11-24 13:48:23,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -26,7 +26,6 @@ CCTV-4,http://gfr.x3322.net:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&a
 CCTV-4,http://gfr.x3322.net:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://k.061899.xyz/m.php?id=cctv4&key=txiptv&playlive=1&authid=0
 CCTV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv4
-CCTV-4,http://woc.iiiya.cn:18888/rtp/239.61.2.206:9224
 CCTV-4,http://121.10.7.16:4000/rtp/239.77.1.180:5146
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -124,7 +123,6 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 茶频道,http://cloud.sunrisecom.wang:8888/rtp/239.45.3.18:5140
 茶频道,http://liuwenxiaokevin.top:14044/rtp/239.45.3.18:5140
 茶频道,http://cloud.sunrisecom.cn:8888/rtp/239.45.3.18:5140
-相声小品,http://live.nctv.top/douyu1.php?id=9286868
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -133,8 +131,8 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 广东卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=gdwshd
 广东卫视,http://125.123.141.122:44022/rtp/233.50.202.101:5140
 广东卫视,http://demo.medrun.cn:4022/rtp/233.18.204.88:5140
-广东卫视,http://61.145.188.90:50055/udp/239.77.0.84:5146
 广东卫视,http://home.amucn.net:8800/rtp/239.49.8.13:9422
+广东卫视,http://61.145.188.90:50055/udp/239.77.0.84:5146
 广东卫视,https://itv.809899.xyz/4k.php?id=gd4k
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -312,6 +310,7 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 全纪实,http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
 动漫秀场,http://demo.medrun.cn:4022/rtp/233.18.204.46:5140
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+金色频道,http://139.196.151.191/rtp/239.45.1.118:5140
 
 📺电视剧频道,#genre#
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
