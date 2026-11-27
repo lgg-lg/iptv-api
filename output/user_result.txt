@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-26 11:57:22,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+2026-11-27 11:59:18,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 📺央视频道,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
@@ -1826,6 +1826,8 @@ CETV-4,http://www.yeqi.eu.org:4000/rtp/233.50.201.172:5140
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 东方财经,http://www.yeqi.eu.org:4000/rtp/233.50.200.177:5140
 东方财经,http://nas.jqcykj.com:88/shanghai/?id=dfcj
+全纪实,http://39.165.39.49:85/tsfile/live/1126_1.m3u8?key=txiptv&playlive=0&authid=0
+全纪实,http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
 动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8?channel-id=ystenlive&Contentid=2210585548805959716256407&livemode=1&stbId=4
 动漫秀场,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
 动漫秀场,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229236/72486907.smil
@@ -2121,8 +2123,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 苏州生活资讯,http://314644.xyz:17777/rtp/239.49.8.116:8000
 苏州生活资讯,http://kouki.pro:8888/rtp/239.49.8.116:8000
 苏州生活资讯,http://z.d4p.cn:8000/rtp/239.49.8.116:8000
-苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
 苏州生活资讯,http://81.69.15.31:8880/play/1567.m3u8
+苏州生活资讯,http://81.69.15.31:8880/play/1565.m3u8
 苏州生活资讯,rtmp://61.155.203.93/live/c04
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
